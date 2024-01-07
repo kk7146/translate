@@ -1,0 +1,78 @@
+{
+	id: "15FC43A9288ED369"
+	loot_size: 1
+	order_index: 30
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/int"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"guardian\",\"type\":\"AURA\",\"perc\":15,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Guardian Aura"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/int"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"summon_dmg\",\"type\":\"AURA\",\"perc\":15,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Overlord Aura"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/int"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"ele_res\",\"type\":\"AURA\",\"perc\":18,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Elemental Barrier Aura"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/str"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"fire_res\",\"type\":\"AURA\",\"perc\":13,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Flame Barrier Aura"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/dex"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"cold_res\",\"type\":\"AURA\",\"perc\":20,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Frost Barrier Aura"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/int"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"light_res\",\"type\":\"AURA\",\"perc\":23,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Thunder Barrier Aura"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/int"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"chaos_res\",\"type\":\"AURA\",\"perc\":23,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Chaos Barrier Aura"
+		}
+	]
+	title: "Aura Gem Shop III"
+}

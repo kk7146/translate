@@ -1,0 +1,45 @@
+{
+	icon: {
+		Count: 1b
+		id: "minecraft:iron_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "05A0CE57058D6FB0"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+					mmorpg_gear: "{\"baseStats\":{\"p\":48},\"imp\":{\"p\":22,\"imp\":\"dusk_blade\"},\"affixes\":{\"suf\":[{\"p\":10,\"id\":\"of_pene\",\"rar\":\"common\",\"ty\":\"suffix\"}],\"pre\":[{\"p\":10,\"id\":\"wep_item_flat\",\"rar\":\"common\",\"ty\":\"prefix\"},{\"p\":51,\"id\":\"warlords\",\"rar\":\"rare\",\"ty\":\"prefix\"}],\"cor\":[]},\"sockets\":{\"so\":[],\"sl\":1,\"rw\":\"\",\"rp\":0},\"data\":{\"map\":{}},\"rar\":\"rare\",\"lvl\":3,\"gtype\":\"sword\",\"pot\":\"rare\",\"pn\":100}"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:weapon/staff/iron"
+				tag: {
+					Damage: 0
+					mmorpg_gear: "{\"baseStats\":{\"p\":46},\"imp\":{\"p\":80,\"imp\":\"cursed_staff\"},\"affixes\":{\"suf\":[{\"p\":37,\"id\":\"of_spell_dmg\",\"rar\":\"uncommon\",\"ty\":\"suffix\"}],\"pre\":[{\"p\":17,\"id\":\"wep_item_perc\",\"rar\":\"common\",\"ty\":\"prefix\"},{\"p\":55,\"id\":\"focused\",\"rar\":\"rare\",\"ty\":\"prefix\"}],\"cor\":[]},\"sockets\":{\"so\":[],\"sl\":0,\"rw\":\"\",\"rp\":0},\"data\":{\"map\":{}},\"rar\":\"rare\",\"lvl\":3,\"gtype\":\"staff\",\"pot\":\"rare\",\"pn\":100}"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:bow"
+				tag: {
+					Damage: 0
+					mmorpg_gear: "{\"baseStats\":{\"p\":47},\"imp\":{\"p\":68,\"imp\":\"imperial_bow\"},\"affixes\":{\"suf\":[{\"p\":28,\"id\":\"of_vampirism\",\"rar\":\"uncommon\",\"ty\":\"suffix\"}],\"pre\":[{\"p\":47,\"id\":\"wep_item_both\",\"rar\":\"rare\",\"ty\":\"prefix\"},{\"p\":38,\"id\":\"wep_item_flat\",\"rar\":\"uncommon\",\"ty\":\"prefix\"}],\"cor\":[]},\"sockets\":{\"so\":[],\"sl\":0,\"rw\":\"\",\"rp\":0},\"data\":{\"map\":{}},\"rar\":\"rare\",\"lvl\":3,\"gtype\":\"bow\",\"pot\":\"rare\",\"pn\":100}"
+				}
+			}
+		}
+	]
+	title: "First Weapon"
+}

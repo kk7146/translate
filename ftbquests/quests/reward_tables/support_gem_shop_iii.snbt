@@ -1,0 +1,98 @@
+{
+	id: "47F5343CBE906758"
+	loot_size: 1
+	order_index: 33
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/dex"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"ailment_damage_less_hit_dmg\",\"type\":\"SUPPORT\",\"perc\":15,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Ailment Damage Support Gem"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/int"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"aoe_dmg\",\"type\":\"SUPPORT\",\"perc\":20,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Area Focus Support Gem"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/dex"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"chaos_damage\",\"type\":\"SUPPORT\",\"perc\":13,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Chaos Damage Support Gem"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/dex"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"cold_damage\",\"type\":\"SUPPORT\",\"perc\":20,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Cold Damage Support Gem"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/str"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"fire_damage\",\"type\":\"SUPPORT\",\"perc\":12,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Fire Damage Support Gem"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/str"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"inc_heal\",\"type\":\"SUPPORT\",\"perc\":20,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Increased Healing Support Gem"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/int"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"lightning_damage\",\"type\":\"SUPPORT\",\"perc\":13,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Lightning Damage Support Gem"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/str"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"physical_damage\",\"type\":\"SUPPORT\",\"perc\":23,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Physical Damage Support Gem"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/dex"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"ranged_damage\",\"type\":\"SUPPORT\",\"perc\":16,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "Ranged Damage Support Gem"
+		}
+	]
+	title: "Support Gem Shop III"
+}
