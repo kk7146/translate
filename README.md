@@ -1,2 +1,2 @@
 # translate
-This program is auto translate program for ftb quest
+This program is the ftb quest automatic translation program.
