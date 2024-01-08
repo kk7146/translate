@@ -12,15 +12,15 @@
 		{
 			dependencies: ["531BDC3DFCE88A6E"]
 			description: [
-				"This is it! &eKill the Ender Dragon&r and put an \"end\" to this madness!"
+				"이거 야!kill the ender dragon an \"end\"이 광기에!"
 				""
-				"&cThe Ender Dragon alway spawns at level 55.&r"
+				"e엔더 드래곤은 항상 레벨 55에서 생성됩니다."
 				""
-				"The Ender Dragon Has:"
-				"&b+25% Physical Damage converted to Lightning Damage&r"
-				"&b+25% Physical Damage converted to Chaos Damage&r"
-				"&b+25% Elemental Resistance&r"
-				"&b+35% Chaos Resistance&r"
+				"엔더 드래곤은 다음과 같습니다."
+				"+25% 신체적 손상이 번개 손상으로 전환되었습니다."
+				"+25% 물리적 손상 혼돈 손상"
+				"+25% 원소 저항"
+				"+35% 혼돈 저항"
 			]
 			id: "6F0D75895E507FFD"
 			rewards: [
@@ -76,15 +76,15 @@
 		{
 			dependencies: ["75454F0A3C4C3596"]
 			description: [
-				"You received &einstructions&r from a village guard, scribbled on a loose piece of bamboo."
+				"당신은 마을 경비원으로부터 instructions을 받았으며, 대나무의 느슨한 조각으로 낙서했습니다."
 				""
-				"&o1. Arrive in The End.&r"
-				"&o2. Obtain End Crystals from the island.&r"
-				"&o3. Place the crystals on the -&r"
+				"eo1.끝에 도착하십시오."
+				"eo2.섬에서 끝 결정을 얻습니다."
+				"eo3.결정을 에 놓으십시오"
 				""
-				"The rest has been &erubbed off &rfrom your adventures."
+				"나머지는 당신의 모험에서 시작되었습니다."
 				""
-				"&cThe Ender Dragon cannot take any Mine and Slash damage, so be prepared to whack it for a while.&r"
+				"ec Ender Dragon은 광산과 슬래시 피해를 입을 수 없으므로 잠시 동안 그것을 who 다."
 			]
 			id: "531BDC3DFCE88A6E"
 			rewards: [{
@@ -111,7 +111,7 @@
 		}
 		{
 			dependencies: ["6F0D75895E507FFD"]
-			description: ["You've slain the dragon, but it seems like there's more to The End than you thought. It might be a good time to use your newly found &eElytra&r and &eexplore the outer islands&r."]
+			description: ["당신은 용을 죽임을했지만 생각보다 끝까지 더 많은 것 같습니다.새로 발견 된 elytra 및 explore the Outer Islands을 사용하는 것이 좋은시기 일 것입니다."]
 			id: "7EA6A0131C5FF143"
 			rewards: [
 				{
@@ -150,7 +150,7 @@
 		}
 		{
 			dependencies: ["6F0D75895E507FFD"]
-			description: ["What?! &eVillages&r in The End?"]
+			description: ["무엇?!villages 결국?"]
 			id: "70D633ACAC150BA9"
 			rewards: [
 				{
@@ -184,11 +184,11 @@
 		{
 			dependencies: ["6F0D75895E507FFD"]
 			description: [
-				"You learned that it wasn't the Ender Dragon that was causing the rifts to open. As vile as the beast was, it was just that - a vile beast."
+				"당신은 균열이 열리는 것이 엔더 드래곤이 아니었다는 것을 알게되었습니다.짐승처럼 사악한 것처럼, 그것은 단지 그저 사악한 짐승이었습니다."
 				""
-				"It seems there is more to The End than you thought... Some say another danger lurks in the void, and others say throwing a &eMysterious Worm&r into it will draw it out."
+				"당신이 생각했던 것보다 끝까지 더 많은 것이있는 것 같습니다 ... 어떤 사람들은 공허에 또 다른 위험이 숨겨져 있다고 말하고 다른 사람들은 a mysterious 웜을 던지는 것이 그것을 끌어낼 것이라고 말합니다."
 				""
-				"You can obtain a &eMysterious Worm&r by placing a &eCrimson Mosquito Larvae&r in a &eCapsid&r. You can obtain the materials needed for crafting a Crimson Mosquito Larvae by &ekilling Flies and Crimson Mosquitoes&r, and the Capsid by &ekilling Enderiophages&r."
+				"A crimson Mosquito 유충 및 A capsid에 A mysterious Worm을 얻을 수 있습니다.killing 파리와 크림슨 모기에 의해 크림슨 모기 유충을 제작하는 데 필요한 재료를 얻을 수 있습니다. killing enderiophages."
 			]
 			id: "56A3604D9BAD661C"
 			rewards: [
@@ -236,9 +236,9 @@
 		{
 			dependencies: ["56A3604D9BAD661C"]
 			description: [
-				"Be prepared, as this horrific creature has many parts to its body. Additionally, it will fire homing crystals to nearby players. If you get too close, you'll get knocked back. Be careful not to get knocked off the island!"
+				"이 끔찍한 생물은 몸에 많은 부분이 있으므로 준비하십시오.또한 근처 플레이어에게 귀환 크리스탈을 발사 할 것입니다.너무 가까워지면 뒤로 물러날 것입니다.섬에서 쓰러지지 않도록 조심하십시오!"
 				""
-				"&cThe Void Worm always spawns at level 60.&r"
+				"e공허 웜은 항상 레벨 60에서 생성됩니다."
 			]
 			id: "3944DD7AC4667137"
 			rewards: [
@@ -288,7 +288,7 @@
 		}
 		{
 			dependencies: ["3944DD7AC4667137"]
-			description: ["There's a report of an underground creature wrecking havoc underground traders. Some call it a &e\"Warden\".&r Some say it can be found in the &eAncient City&r deep underneath."]
+			description: ["지하 생물이 혼란스런 지하 상인의 보고서가 있습니다.일부는 그것을 a 라고 부릅니다."Warden\ 어떤 사람들은 그것이 ancient city 아래 깊은 곳에서 찾을 수 있다고 말합니다."]
 			id: "0424E768816CB314"
 			rewards: [
 				{
@@ -329,14 +329,14 @@
 		{
 			dependencies: ["0424E768816CB314"]
 			description: [
-				"The &eWarden&r is completely blind, and relies on vibrations, smell, and touch to detect players. You can evade them by sneaking, or using diversions such as arrows. It has a powerful melee attack, and can release a devastating homing sonic boom attack."
+				"warden은 완전히 맹목적이며 진동, 냄새 및 터치에 의존하여 플레이어를 감지합니다.몰래 나거나 화살과 같은 전환을 사용하여 피할 수 있습니다.그것은 강력한 근접 공격을 가지고 있으며, 끔찍한 홈런 소닉 붐 공격을 해제 할 수 있습니다."
 				""
-				"&cThe Warden always spawns at level 65.&r"
+				"e소장은 항상 65 레벨에서 스폰됩니다."
 				""
-				"The Warden Has:"
-				"&b+50% Armor&r"
-				"&b+35% Elemental Resistance&r"
-				"&b+35% Chaos Resistance&r"
+				"소장은 다음과 같습니다."
+				"+50% 갑옷"
+				"+35% 원소 저항"
+				"+35% 혼돈 저항"
 			]
 			id: "6B5AFF6897A7AE6D"
 			rewards: [
@@ -386,7 +386,7 @@
 		}
 		{
 			dependencies: ["6B5AFF6897A7AE6D"]
-			description: ["Wow, who'd have thought? The &eWarden&r seemed to be protecting a gateway to a new &eundiscovered dimension&r. What's on &eThe Otherside&r?"]
+			description: ["와우, 누가 생각했을까요?warden은 새로운 및 전달 된 차원의 관문을 보호하는 것처럼 보였다.무엇이 the otherside?"]
 			id: "707C5CDB48B487F8"
 			rewards: [
 				{
@@ -428,9 +428,9 @@
 		{
 			dependencies: ["707C5CDB48B487F8"]
 			description: [
-				"Continue to &eexplore,&r and descend into the &edarkness...&r You never know what &egoodies&r you'll find."
+				"계속 탐험하고 R darkness로 내려갑니다."
 				""
-				"&b&oCongratulations on completing the Campaign! Continue to explore what the worlds have to offer, and be sure to check out the Side Quests! Keep on leveling and customizing your character, and try to overcome the greatest challenges in Maps!&r&r"
+				"캠페인 완료에 대한  congrations!세계가 제공하는 것을 계속 탐색하고 사이드 퀘스트를 확인하십시오!캐릭터 레벨링과 커스터마이징을 계속하고지도에서 가장 큰 과제를 극복하려고 노력하십시오!"
 			]
 			id: "6149D163ABF06A15"
 			rewards: [
@@ -496,9 +496,9 @@
 		{
 			dependencies: ["6F0D75895E507FFD"]
 			description: [
-				"Although you've &eslain the dragon&r, you will still find remnants of the beast. Slay its &espawn&r to prevent any further devastation."
+				"당신은 Dragon을 Eslain하지만 여전히 짐승의 잔재를 찾을 수 있습니다.더 이상의 황폐화를 방지하기 위해 그 spawn을 죽이십시오."
 				""
-				"Note that you can &erespawn&r the Ender Dragon again using &eEnd Crystals&r! The method is the same as &eVanilla.&r"
+				"end crystals을 사용하여 엔더 드래곤을 다시 할 수 있습니다.이 방법은 vanilla와 동일합니다."
 			]
 			id: "61FF2CADDF0013F6"
 			rewards: [
@@ -546,7 +546,7 @@
 		}
 		{
 			dependencies: ["30FA1CCB6BBA7125"]
-			description: ["Rumours have it that &eFarseer&r are prophetic creatures originating from the void."]
+			description: ["소문에 따르면 farseer은 공허에서 유래 한 예언 적 생물입니다."]
 			id: "69FD852AE0306BD2"
 			rewards: [
 				{
@@ -626,7 +626,7 @@
 				"201E621A52FFCE65"
 				"010FF3BF22DA9AED"
 			]
-			description: ["&eComplete&r all of the &equests&r in Act V to complete this achievement. Then show it off with your new hat!"]
+			description: ["complete Act V의 모든 quests.그런 다음 새 모자로 보여주세요!"]
 			hide_dependency_lines: true
 			icon: "simplehats:rgbsunglasses"
 			id: "4ABF5C9676202847"
@@ -658,13 +658,13 @@
 			dependencies: ["3944DD7AC4667137"]
 			dependency_requirement: "one_completed"
 			description: [
-				"Maps are &einstanced dungeons&r from Mine and Slash. They only start dropping from mobs from &elevel 60 and onwards&r."
+				"지도는 내와 슬래시에서 instanced 던전입니다.그들은 level 60과 이후의 폭도들 로부터만 떨어지기 시작합니다."
 				""
-				"To access these instanced dungeons, you will need to craft a &eMap Device&r, and you will need a Map. These Maps can be used on the Map Device block (once placed). You also will need to craft a &ePearl of Home&r, to ensure you can return safely."
+				"이 Instanced Dungeons에 액세스하려면 A MAP 장치를 제작해야하며지도가 필요합니다.이 맵은 맵 장치 블록에서 사용할 수 있습니다 (한 번 배치).또한 안전하게 돌아올 수 있도록 Home의 A pearl을 제작해야합니다."
 				""
-				"Maps will have an associated level, rarity, and tier. The level, rarity, and tier determine the difficulty of mobs, and quality of loot."
+				"지도는 관련 레벨, 희귀 성 및 계층이 있습니다.레벨, 희귀 성 및 계층은 폭도의 어려움과 전리품의 품질을 결정합니다."
 				""
-				"Maps can also roll various affixes. &eAffixes&r are random modifiers that are applied either to the players (usually negative) or the mobs (usually positive). Each affix on the map will also enhance the &eMap's experience and loot rewards&r, depending on the severity of the affix!"
+				"지도는 다양한 접미사를 굴릴 수도 있습니다.affixes은 플레이어 (보통 음수) 또는 몹 (일반적으로 양성)에 적용되는 랜덤 수정 자입니다.맵의 각 부착은 부착의 심각성에 따라 MAP의 경험과 전리품 보상을 향상시킵니다!"
 			]
 			icon: "mmorpg:map"
 			id: "4FEFBA3770769DA9"
@@ -714,7 +714,7 @@
 		}
 		{
 			dependencies: ["4FEFBA3770769DA9"]
-			description: ["Now that you have the necessary materials, try taking on a &eMap!&r"]
+			description: ["이제 필요한 자료가 있으므로 A Map을 사용해보십시오!"]
 			id: "201E621A52FFCE65"
 			rewards: [{
 				auto: "enabled"
@@ -740,7 +740,7 @@
 		}
 		{
 			dependencies: ["0424E768816CB314"]
-			description: ["The &eImbuing Table&r allows you to &ecombine max level&r enchantments. When they're combined, you'll get an &eupgraded enchantment book&r that is one level higher than the typical max. For example, two Fortune IIIs will become one &eFortune IV&r."]
+			description: ["imbuing 테이블을 사용하면 최대 량을 흡입 할 수 있습니다.그들이 결합되면, 당신은 전형적인 최대보다 한 레벨이 높은 pgraded enchantment book을 얻을 수 있습니다.예를 들어, 두 개의 Fortune III는 하나의 fortune iv이됩니다."]
 			id: "6BA03D598BD6C2AD"
 			rewards: [
 				{
@@ -785,13 +785,13 @@
 		{
 			dependencies: ["7EA6A0131C5FF143"]
 			description: [
-				"&eElytras&r can now be customized with &ebanners, dyes, capes, armor trims, and glow squid ink&r."
+				"elytras은 이제 banners, 염료, 케이프, 갑옷 트림 및 글로우 오징어 잉크로 사용자 정의 할 수 있습니다."
 				""
-				"&eCombine&r a full elytra with any banners, dyes, armor trims, and/or glow ink squid to &eapply&r it to the whole elytra. "
+				"combine 배너, 염료, 갑옷 트림 및/또는 글로우 잉크 오징어를 갖춘 전체 엘리트라."
 				""
-				"Place a &efull elytra&r into a crafting grid to seperate it into &etwo elytra wings&r which allows you to customize them seperately and then craft them back &etogether.&r"
+				"a full elytra을 제작 그리드에 넣어 two elytra wings로 분리 한 다음, 그들을 분리 한 다음 다시 만들 수 있습니다...."
 				""
-				"You can also hide your &ecape&r from appearing on your elytra by just crafting it with a piece of &epaper.&r"
+				"paper로 제작함으로써 cape을 엘리트라에 등장하는 것을 숨길 수도 있습니다."
 			]
 			id: "4E2506271B43A29C"
 			rewards: [
@@ -843,7 +843,7 @@
 		}
 		{
 			dependencies: ["6F0D75895E507FFD"]
-			description: ["&eEnderiophages&r can be found everywhere in &eThe End&r. These things spread &edisease&r and should be taken care of as soon as possible!"]
+			description: ["enderiophages은 the end의 모든 곳에서 찾을 수 있습니다.이러한 것들이 퍼지고 edisease을 확산 시키며 가능한 빨리 처리해야합니다!"]
 			id: "30FA1CCB6BBA7125"
 			rewards: [{
 				auto: "enabled"
@@ -869,7 +869,7 @@
 		}
 		{
 			dependencies: ["707C5CDB48B487F8"]
-			description: ["&eShriek Worms&r are terrifying creatures found on &eThe Otherside&r. Should you &estep on Infested Sculk&r, you'll be met with a surprise."]
+			description: ["shriek worms은 끔찍한 생물입니다.감염된 Sculk에 대한 Estep이라면 놀라운 일을 할 것입니다."]
 			id: "081AD91A178C3A3F"
 			rewards: [
 				{
@@ -922,7 +922,7 @@
 		}
 		{
 			dependencies: ["707C5CDB48B487F8"]
-			description: ["&eStalkers&r are creepy and powerful entities that can be found on &eThe Otherside&r. They're attracted to harsh noises, so if you're looking to find one, maybe &ebreak some jars&r?"]
+			description: ["stalkers은 소름 끼치고 강력한 엔티티이며, Otherside에서 찾을 수 있습니다.그들은 가혹한 소음에 끌립니다. 그래서 당신이 하나를 찾으려고한다면, 아마도 jars?"]
 			id: "6DEBCC2B2DAE67AD"
 			rewards: [
 				{
@@ -957,7 +957,7 @@
 		}
 		{
 			dependencies: ["707C5CDB48B487F8"]
-			description: ["In &eEchoing Forests&r, you'll find creatures that have lost their souls. Once thought to be human, now a husk of its former self."]
+			description: ["echoing 숲에서, 당신은 그들의 영혼을 잃은 생물을 찾을 수 있습니다.한때 인간이라고 생각했지만 이제는 이전의 자아의 껍질입니다."]
 			id: "0C894EBBB7C6F380"
 			rewards: [{
 				auto: "enabled"
@@ -990,7 +990,7 @@
 		{
 			can_repeat: false
 			dependencies: ["30FA1CCB6BBA7125"]
-			description: ["Catch the Ender Flu effect. Cure it by eating many &eChorus Fruit&r or &edrinking milk&r. The clock is ticking..."]
+			description: ["엔더 독감 효과를 잡으십시오.많은 chorus fruit 또는 edrinking milk을 먹음으로써 그것을 치료하십시오.시계가 똑딱 거리며 가고있다..."]
 			id: "010FF3BF22DA9AED"
 			rewards: [
 				{
@@ -1025,7 +1025,7 @@
 		{
 			can_repeat: true
 			dependencies: ["6149D163ABF06A15"]
-			description: ["This \"quest\" consumes the coin and gives you a &eSINGLE&r random level 60, 80, or 100 &cUnique&r!"]
+			description: ["이것 \"quest\"동전을 소비하고 A single Random Level 60, 80 또는 100 Cunique을 제공합니다!"]
 			hide_dependency_lines: true
 			icon: "mmorpg:chest/legendary_gear"
 			id: "2F90341CB7C42085"

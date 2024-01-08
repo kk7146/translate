@@ -10,13 +10,13 @@
 	quests: [
 		{
 			description: [
-				"&eLightman's Currency&r introduces coins as currency, various trading posts, the auction house, and more. "
+				"lightman의 통화 및 R은 동전을 통화, 다양한 거래 게시물, 경매장 등으로 소개합니다."
 				""
-				"Any &eLightman's Trader&r you place can only be modified by you or your Lightman's &eteam.&r Team accounts can be created by clicking the small Steve icon in the upper right of your inventory. There's also a &enotifications&r button for trader and team account events. Team accounts are used to share profits and costs between players."
+				"귀하 또는 귀하의 Lightman 's team에서만 수정할 수 있습니다.및 elightman의 상인 및 R 팀 계정은 인벤토리의 오른쪽 상단에있는 작은 Steve 아이콘을 클릭하여 수정할 수 있습니다.트레이더 및 팀 계정 이벤트를위한 notifications 버튼도 있습니다.팀 계정은 플레이어 간의 이익과 비용을 공유하는 데 사용됩니다."
 				""
-				"&eCurrency&r is obtained by &ekilling&r mobs, &eloot&r, and &equests.&r"
+				"currency은 killing mobs, loot, quests에 의해 얻어집니다"
 				""
-				"Use &e/lctrade&r to trade with other nearby players."
+				"/lctrade을 사용하여 다른 인근 플레이어와 거래하십시오."
 			]
 			id: "06B577BB603F2F0A"
 			rewards: [{
@@ -88,9 +88,9 @@
 		{
 			dependencies: ["06B577BB603F2F0A"]
 			description: [
-				"Most Item Trader blocks can trade any item, but some item types such as &ebooks&r or &earmor&r require specific &eTraders.&r "
+				"대부분의 품목 트레이더 블록은 모든 품목을 거래 할 수 있지만 books 또는 armor과 같은 일부 항목 유형은 특정 및 에트레이더가 필요합니다"
 				""
-				"Use a &eCash Register&r to &elink&r any placed traders with right click to &ebind&r it to the &eregister.&r Once the register is placed, all the trades available in the traders &ewill show up&r in the &eCash Register interface&r."
+				"A CASH Register을 사용하여 link 오른쪽 클릭으로 배치 된 트레이더를 사용하고 bind 등록자에게."
 			]
 			id: "64C7494796410D04"
 			rewards: [{
@@ -163,13 +163,13 @@
 		{
 			dependencies: ["64C7494796410D04"]
 			description: [
-				"&eATMs&r can &ekeep your money&r, &etransfer money&r between accounts and team accounts, and can &eexchange coins&r between denominations."
+				"atms는 당신의 돈을 낼 수 있습니다, transfer money 계정과 팀 계정 사이의 돈과 교파 사이의 동전을 할 수 있습니다."
 				""
-				"&ePiggy Banks&r can store coins by right clicking on it with a coin in hand. You'll have to &ebreak it&r to get the cash out, though."
+				"piggy Banks은 동전을 손에 넣은 상태에서 마우스 오른쪽 버튼으로 클릭하여 동전을 저장할 수 있습니다.하지만 현금을 꺼내려면 it 를 e- ebreak해야합니다."
 				""
-				"The &eMoney Chest&r is an alternative to the ATM but &ecan only store&r money. If you don't &etrust&r the bank's ATM, keep your coins in the Money Chest instead."
+				"money chest은 ATM의 대안이지만 can 전용 저장 돈입니다.은행의 ATM을 입증하지 않으면 대신 동전을 돈 상자에 보관하십시오."
 				""
-				"Use &e/lcbaltop&r to see who has the most money &estored in their bank&r account."
+				"/lcbaltop을 사용하여 은행 및 R 계정에서 누가 가장 많은 돈을 가지고 있고 에스로드 한 사람을 확인하십시오."
 			]
 			id: "6C57A4CBA635B27E"
 			rewards: [{
@@ -207,13 +207,13 @@
 		{
 			dependencies: ["6C57A4CBA635B27E"]
 			description: [
-				"&eTrading Terminals&r allow you to trade with any other traders on the &eglobal network&r. You can also access the server's &eAuction House&r which isn't available to regular players."
+				"Trading Terminals을 통해 global Network의 다른 거래자와 거래 할 수 있습니다.일반 플레이어는 사용할 수없는 서버 및 EAUCTION 하우스 및 R에 액세스 할 수 있습니다."
 				""
-				"&eItem Network Traders&r have &e4&r tiers and can only be &eaccessed&r through Trading Terminals."
+				"item Network Traders은 4 계층을 보유하고 있으며 거래 터미널을 통해서만을받을 수 있습니다."
 				""
-				"You can &eupgrade&r any regular trader to be accessed through the network as well as in person by placing a &eNetwork Upgrade&r in one of its &eupgrade slots&r."
+				"network upgrade을 upgrade 슬롯 중 하나에 배치하여 네트워크를 통해서도 직접 액세스 할 수있는 모든 일반 트레이더에 액세스 할 수 있습니다."
 				""
-				"&eAuction Stands&r can let players &ebid&r on items within the &etime alotted&r before the auction ends."
+				"auction stands은 경매가 끝나기 전에 time elotted 내에서 플레이어 bid을 허용 할 수 있습니다."
 			]
 			id: "2BB4B6FE41F4CC58"
 			rewards: [{
@@ -279,9 +279,9 @@
 		{
 			dependencies: ["2BB4B6FE41F4CC58"]
 			description: [
-				"The &eTicket system&r is a good way to allow only &epaying customers to enter&r a designated area or &eactivate a redstone contraption&r. Don't let anyone get ahold of any &eMaster Tickets&r you create."
+				"ticket system은 고객이 지정된 영역에 입력하거나 Redstone Contraption을 입력 할 수있는 좋은 방법입니다.누군가가 어떤 master 티켓을 얻지 못하게하십시오."
 				""
-				"The &eSlot Machine&r allows you to create your own &epayout weights and potential rewards&r to paying customers."
+				"slot machine을 사용하면 고객에게 자신의 payout 가중치와 잠재적 보상을 지불 할 수 있습니다."
 			]
 			id: "322F44860B462AEF"
 			rewards: [{
@@ -375,7 +375,7 @@
 			y: -8.0d
 		}
 		{
-			description: ["&eJoy of Painting&r allows you to create works of art by placing any size of &ecanvas&r on an &eeasel.&r Add dyes to your &epalette&r and mix them up to create unique colors. Make sure to &esign&r your painting after you're done. "]
+			description: ["joy of Painting을 사용하면 easel에 canvas의 모든 크기를 배치하여 예술 작품을 만들 수 있습니다 palette에 염료를 추가하고 혼합하여 고유 한 색상을 만듭니다.완료 한 후에 그림을 확인하고 확인하십시오."]
 			id: "792587BFEA5FB382"
 			rewards: [{
 				auto: "enabled"
@@ -411,17 +411,17 @@
 		}
 		{
 			description: [
-				"&eMusic Maker&r allows you to play songs by using your &ekeyboard and mouse&r, by connecting a &eMidi device&r to your computer, or by using &eMidi loopback software&r. Only the Piano and Drum Kit can be placed."
+				"music Maker을 사용하면 A midi 장치을 컴퓨터에 연결하거나 midi Loopback Software을 사용하여 keyboard and mouse을 사용하여 노래를 재생할 수 있습니다.피아노와 드럼 키트 만 배치 할 수 있습니다."
 				""
-				"To play songs using MIDI loopback software:"
+				"MIDI 루프백 소프트웨어를 사용하여 노래를 재생하려면 :"
 				""
-				"-Install &eMidi Editor&r and &eloopMidi.&r"
+				"-install midi 편집자 및 loopmidi"
 				""
-				"-In &eloopMidi,&r click the plus button in the bottom left. Then go to advanced and uncheck \"Detects Feedback\". "
+				"-in loopmidi, 왼쪽 하단의 플러스 버튼을 클릭하십시오.그런 다음 Advanced로 가서 선택 취소 \"Detects Feedback\"."
 				""
-				"-Open &eMidi Editor&r, click the Midi button at the top, then click settings. Only check \"loopMIDI Port 1\" under Midi Output. "
+				"-MIDI 편집기를 열고 상단의 MIDI 버튼을 클릭 한 다음 설정을 클릭합니다."loopMIDI Port 1\"MIDI 출력 아래."
 				""
-				"-Download any &eMidi file&r you want and open it in midi editor and play it. Ingame, open the GUI for any instrment and it should play."
+				"-원하는 모든 MIDI 파일을 다운로드하고 MIDI 편집기에서 열고 재생하고 게임에서 GUI를 열면 모든 악기를 열어야합니다."
 			]
 			id: "4EB78B5D6F8061E9"
 			rewards: [{
@@ -531,19 +531,19 @@
 		{
 			dependencies: ["4EB78B5D6F8061E9"]
 			description: [
-				"You can &erecord&r music you play onto &emusic sheets&r with multiple instruments."
+				"여러 악기로 음악 시트에서 연주하는 음악 및 R 음악을 할 수 있습니다."
 				""
-				"To record &eMIDI files&r in Music Maker into Sheet Music:"
+				"음악 제조업체에서 악보에 대한 음악 제작자를 녹음하고 Emidi 파일을 녹음하려면 :"
 				""
-				"-Do all the same stuff from the &eprevious quest.&r"
+				"-previous Quest에서 모두 같은 것들을하십시오."
 				""
-				"-In the &eMusic Sheet GUI&r, Change the &etempo to 1200&r. Higher tempos give higher &egranularity&r to the recording. Click the &erecord&r button in the GUI and then go into &eMidi editor&r and play the song."
+				"-음악 시트 GUI에서 템포를 1200으로 변경하십시오. Higher Tempos는 녹음에 더 높은 세분성을 제공합니다. GUI에서 레코드 버튼을 클릭 한 다음 MIDI 편집기로 가서 노래를 재생하십시오."
 				""
-				"-&eDon't alt tab&r since alt will cancel the recording. You should see notes appearing on the sheet. "
+				"-Alt Alt가 녹음을 취소하기 때문에 ALT 탭이 아닙니다. 시트에 메모가 나타납니다."
 				""
-				"-Let the song &efinish&r and then stop recording. Review it or sign it."
+				"-노래를 끝내고 녹음을 중지하십시오. 검토하거나 서명하십시오."
 				""
-				"If you want Music Sheets with multiple instruments, you'll need to &etranscribe it yourself&r with the GUI."
+				"여러 악기가있는 음악 시트를 원한다면 GUI와 함께 직접 설명해야합니다."
 			]
 			id: "57A2C206427097BA"
 			rewards: [{
@@ -568,7 +568,7 @@
 		}
 		{
 			dependencies: ["57A2C206427097BA"]
-			description: ["The &eMetronome&r can sync up &emultiple musicians&r. All players must hold the &esame music sheet&r and have the &esame tempo&r. Right click the metronome with a &esheet in your hand&r, that will calibrate the metronome to that sheet's tempo. Then you power it for a short time with a &ewooden button&r while&e holding instruments on main hand and sheets on the off hand&r, then everyone in the area starts playing together."]
+			description: ["메트로놈은 여러 음악가를 동기화 할 수 있습니다. 모든 플레이어는 동일한 음악 시트를 고정하고 동일한 템포를 가져야합니다.주 손에 악기와 시트를 오프 손에 들고있는 동안 나무 버튼으로 시간을 보낸 다음이 지역의 모든 사람들이 함께 연주하기 시작합니다."]
 			id: "605E1DBA0CCFE313"
 			rewards: [{
 				auto: "enabled"
@@ -715,9 +715,9 @@
 		}
 		{
 			description: [
-				"Play &eChess&r against others.  "
+				"다른 사람들에게 체스를합니다."
 				""
-				"The &eWooden Chess Board&r is a &e\"free-play\"&r board where you can experiment while all other Chess Boards &eapply Chess rules&r. "
+				"목재 체스 보드 R은 A  \입니다."free-play\"다른 모든 체스 보드가 체스 규칙을 적용하는 동안 실험 할 수있는 보드."
 			]
 			id: "1313A073E415B951"
 			rewards: [{
@@ -769,7 +769,7 @@
 			y: 3.0d
 		}
 		{
-			description: ["&eLootr&r is a mod that makes each world generated loot chest, barrel, and minecart with chest a special version that has &eplayer-instanced loot&r."]
+			description: ["lootr은 각 세계 각 세계를 생성 한 전리품 상자, 배럴 및 마인 카트를 상자으로 생성하여 player instanced loot을 가진 특별한 버전으로 만듭니다."]
 			id: "6E3023586AC43198"
 			rewards: [{
 				auto: "enabled"
@@ -872,9 +872,9 @@
 		}
 		{
 			description: [
-				"Craft a &eTelepass&r to link it to yourself. Another player can then use that telepass to &einstantly teleport&r to you."
+				"텔레 패스를 만들기 위해 텔레파시를 만들어냅니다. 그런 다음 텔레 패스를 사용하여 즉시 순간 이동할 수 있습니다."
 				""
-				"&eGold Telepasses&r are &esingle&r use while &eDiamond Telepasses&r have &edurability.&r They can both be &eenchanted.&r"
+				"gold Telepasses은 single 사용 중에 diamond Telepasses은 durability를 가지고 있습니다. 둘 다enchant."
 			]
 			id: "0152DC99C57C0731"
 			rewards: [{
@@ -921,7 +921,7 @@
 		}
 		{
 			dependencies: ["605E1DBA0CCFE313"]
-			description: ["The &eMusic Box&r can play a music sheet on its own by &einserting an instrument and a music sheet&r."]
+			description: ["music box은 악기와 음악 시트을 통해 자체적으로 음악 시트를 재생할 수 있습니다."]
 			id: "4470B9ADE7F8BB4A"
 			rewards: [{
 				auto: "enabled"
@@ -994,26 +994,26 @@
 		}
 		{
 			description: [
-				"&eFLAN&r is used for claiming land. Right click the ground with a &eGolden Hoe&r to start claiming. "
+				"플랜은 토지를 주장하는 데 사용됩니다."
 				""
-				"You can right click anywhere with a &estick&r to see who owns what and where the boundaries are."
+				"A stick을 사용하여 어디서나 마우스 오른쪽 버튼을 클릭하여 누가 경계가 어디에 있는지, 어디에 있는지 확인할 수 있습니다."
 				""
-				"Use &e/flan menu&r to edit your claim. Use &e/flan switchMode&r to create subclaims."
+				"/flan 메뉴를 사용하여 CARMEN.SUE /FLAN SWITCHMODE를 편집하여 하위 클레임을 만듭니다."
 				""
-				"&eGlobal permissions&r are permissions given to anyone who is &enot&r in a permission group."
+				"global 권한는 허가 그룹의 not 인 사람에게 제공되는 권한입니다."
 				""
-				"&eRight-click&r permission groups to set their individual permissions."
+				"right-click 권한 그룹의 개별 권한을 설정할 수 있습니다."
 				""
-				"&4&lYour claim will be deleted after 90 days of inactivity by the owner of the claim in multiplayer.&r&n&r"
+				"your 클레임은 멀티 플레이어 청구 소유자에 의해 90 일의 비 활동 후 삭제됩니다."
 				""
-				"&eStarting Claim Blocks:&r 2000"
-				"&e+1&r Block every &e10 seconds&r"
-				"&eMaximum Claim Blocks:&r 25600"
-				"&eTime to get Max: &r66 hours"
-				"&eInitial Claim Depth:&r 20 blocks"
-				"&eMax Claims: &r3"
+				"starting 클레임 블록 : 2000"
+				"+1 매번 10 초 블록"
+				"maximum 클레임 블록 : 25600"
+				"최대를 얻기위한 time :66 시간"
+				"initial Claim Depth : 20 블록"
+				"max 주장 :3"
 				""
-				"Claim depth will continue further down &eautomatically&r if you &ebuild&r under your claim."
+				"클레임 깊이는 귀하의 주장에 따라 귀하와 ebuild의 경우 더 계속 아래로 내려갑니다."
 			]
 			id: "447144432E16E12F"
 			rewards: [{

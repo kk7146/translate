@@ -10,13 +10,13 @@
 	quests: [
 		{
 			description: [
-				"&eFarmer's Delight&r overhauls the process of cooking. You can now create a &estove&r to heat a &epot or skillet&r that is placed ontop of it. "
+				"farmer의 기쁨 요리 과정을 점검하십시오.이제 a stove을 만들어 A pot 또는 Skillet을 가열 할 수 있습니다."
 				""
-				"&ePots&r are able to make stews and combined foods that are held with bowls. You can also make Feasts which are foods that are placed, like cakes, that have multiple portions."
+				"pots은 그릇으로 보유한 스튜와 결합 식품을 만들 수 있습니다.케이크와 같이 여러 부분이있는 음식 인 축제를 만들 수도 있습니다."
 				""
-				"&eSkillets&r can cook food over campfires or stoves."
+				"skillets은 캠프 파이어 나 스토브 위로 음식을 요리 할 수 있습니다."
 				""
-				"&eCutting Boards &rare useful in and out of cooking. Not only can you &efillet fish and meats&r into strips, but also cut up various items such as wool into string or leather armor into leather. Cutting boards require &eknives&r primarily but some recipes will use pickaxes, axes, shears, etc."
+				"cutting boards 요리 안팎에서 유용합니다.당신은 물고기와 고기와 r을 스트립에 넣을 수있을뿐만 아니라 양모와 같은 다양한 품목을 끈이나 가죽 갑옷으로 가죽으로 자릅니다.절단 보드는 knives 주로 필요하지만 일부 레시피에는 곡예, 축, 전단 등이 사용됩니다."
 			]
 			id: "1ABBB0CCEECA066F"
 			rewards: [{
@@ -74,7 +74,7 @@
 			y: 0.0d
 		}
 		{
-			description: ["&eCrabber's Delight &rallows you to catch crabs and other treasures using &eCrab Pots&r. They require bait, usually fish, in them to catch anything. They can also be fished up with a fishing rod."]
+			description: ["crabber의 기쁨과 랠리 crab pots을 사용하여 게와 다른 보물을 잡을 수 있습니다.그들은 미끼, 보통 물고기가 필요합니다.그들은 또한 낚싯대로 낚시질 할 수 있습니다."]
 			id: "3ADE97CD486AE65C"
 			rewards: [{
 				auto: "enabled"
@@ -98,7 +98,7 @@
 			y: 0.0d
 		}
 		{
-			description: ["While holding a &ehoe,&r right click crops to harvest without breaking them. Higher tiered &ehoes&r harvest in bigger radiuses."]
+			description: ["hoe를 잡고있는 동안 오른쪽 버튼을 클릭하여 수확하지 않고 수확하십시오.더 큰 반경에서 더 높은 계층 및 ehoes 수확."]
 			id: "7F58716061D74AC2"
 			rewards: [{
 				auto: "enabled"
@@ -128,13 +128,13 @@
 		}
 		{
 			description: [
-				"&eFarming for Blockheads&r makes farming easier by providing &ethree&r different fertilizers to apply to farmland. Only one fertilizer can be used on a farmland."
+				"farming for blockheads은 농지에 적용 할 수있는 다양한 비료를 제공함으로써 농업을보다 쉽게 만들 수 있습니다.농지에는 하나의 비료 만 사용할 수 있습니다."
 				""
-				"The &eMarket&r block allows you to buy seeds and sapling directly."
+				"market 블록을 사용하면 씨앗과 묘목을 직접 구입할 수 있습니다."
 				""
-				"The &eFeeding Trough&r lets animals breed automatically if supplied with food."
+				"feeding trough은 음식이 제공되면 동물을 자동으로 번식시킬 수 있습니다."
 				""
-				"The &eChicken Nest&r automatically collects any eggs laid near it."
+				"닭 둥지는 자동으로 계란을 징수합니다."
 			]
 			id: "3B4E06CA3D404A7C"
 			rewards: [{
@@ -185,7 +185,7 @@
 			y: 1.5d
 		}
 		{
-			description: ["&eNether's Delight&r adds food and utility to the Nether such as &eHoglin Loins&r and&e Strider meats&r."]
+			description: ["nether의 기쁨은 hoglin loins 및  strider meats과 같은 황천에 음식과 유용성을 추가합니다."]
 			id: "462BAB455A040B51"
 			rewards: [{
 				auto: "enabled"
@@ -218,9 +218,9 @@
 		}
 		{
 			description: [
-				"&eSpice of Life: Apple Pie Edition &rgives every food a &e\"diversity\"&r factor. Eating diverse foods gives &ebenefits,&r while sticking to a few foods won't. Check your food book in your MineMenu (default: h) to check your diversity and current benefits. Keep eating different foods."
+				"Spice of Life : Apple Pie Edition 모든 음식 제공 a  \"diversity\ 요인.다양한 음식을 먹으면 benefits를 제공합니다.Minemenu (기본값 : H)에서 푸드 북을 확인하여 다양성과 현재의 이점을 확인하십시오.다른 음식을 계속 먹으십시오."
 				""
-				"The &eLunchbag&r can be crafted and upgrades to &ehold all your food&r at once by &eshift right clicking&r with it in hand and right clicking to eat with it. It won't show up in JEI."
+				"lunchbag은 제작되어 모든 음식을 한 번에을 직접 클릭하고 마우스 오른쪽 버튼을 클릭하여 먹을 수 있습니다.Jei에는 나타나지 않습니다."
 			]
 			id: "4AF5F24C4B770EA5"
 			rewards: [
@@ -258,7 +258,7 @@
 			y: 1.5d
 		}
 		{
-			description: ["&eCorn Delight&r adds corn products such as tortillas, nachos, popcorn, and more."]
+			description: ["corn delight은 옥수수, 나초, 팝콘 등과 같은 옥수수 제품을 추가합니다."]
 			id: "4EB5BD23AA91660A"
 			rewards: [{
 				auto: "enabled"
@@ -283,15 +283,15 @@
 		}
 		{
 			description: [
-				"&eCuisine Delight&r allows you to cook &eany compatible food&r to create new, unique foods. "
+				"cuisine Doneight을 사용하면 Cook any 호환 식품을 통해 새롭고 독특한 음식을 만들 수 있습니다."
 				""
-				"While near a fire source, hold the &eCuisine Skillet&r in your &eoffhand.&r You can also place it on the fire source. &eRight click food&r in hand to add it to the &eskillet.&r Two gauges will appear on the right side of your screen for each ingredient added. The &efirst gauge&r is how cooked the food is, you want it to end in the &eyellow.&r The &esecond gauge&r is how &eburned each side&r is, you want the pointer inside to &eremain within the green&r. Then, use the &espatula&r to &eflip&r all the ingredients inside to keep either side from &eburning.&r Use the &ebowl&r quickly to take the food out."
+				"소방관 근처에있는 동안 offhand에 cuisine Skillet을 보관하십시오.right food을 손에 클릭하여 skillet에 추가하십시오. 두 개의 게이지가 추가 된 각 성분에 대한 화면의 오른쪽에 나타납니다.first Gauge은 음식이 요리되는 방식, 당신은 그것이 yellow에서 끝나기를 원합니다. second 게이지은 각 측면의 방법과 eburned입니다.그런 다음 spatula to flip 내부의 모든 재료를 사용하여 어느 쪽이든 burning을 유지하십시오. bowl을 빨리 사용하여 음식을 꺼내십시오."
 				""
-				"Hold &eshift&r on food in inventory to see cooking timings."
+				"요리 타이밍을보기 위해 인벤토리에서 음식을 보유하고 hold Shift."
 				""
-				"If it's &eburned,&r you let the second gauge get into the red on one of the sides."
+				"그것이 burned 인 경우 두 번째 게이지가 측면 중 하나의 빨간색으로 들어가게합니다."
 				""
-				"If it's &enot cooked enough,&r you didn't let the first gauge get into the yellow."
+				"그것이 not가 충분히 요리되면, 첫 번째 게이지가 노란색으로 들어 가지 못하게했습니다."
 			]
 			id: "75800C2A9E6F13F0"
 			rewards: [{
@@ -333,7 +333,7 @@
 			y: 1.5d
 		}
 		{
-			description: ["&eEnder's Delight &radds food and ingredient drops to each mob in the End. These can be cooked into foods that can assist you navigating the End."]
+			description: ["ender 's Delightadds 음식과 성분은 결국 각 폭도들에게 떨어집니다.이들은 끝을 탐색하는 데 도움이되는 음식으로 요리 할 수 있습니다."]
 			id: "0B9F6275E5B8A1EC"
 			rewards: [{
 				auto: "enabled"
@@ -371,7 +371,7 @@
 			y: 0.0d
 		}
 		{
-			description: ["&eOcean's Delight &radds food drops to numerous creatures within the oceans"]
+			description: ["ocean의 기쁨adds 음식은 바다 내의 수많은 생물에게 떨어집니다."]
 			id: "54A6BA8EB4D9D0A0"
 			rewards: [{
 				auto: "enabled"
@@ -404,7 +404,7 @@
 		}
 		{
 			dependencies: ["54A6BA8EB4D9D0A0"]
-			description: ["Slay an &eElder Guardian&r for its meat."]
+			description: ["고기를 위해 an elder Guardian을 죽이십시오."]
 			id: "2CABF1E53F173621"
 			rewards: [{
 				auto: "enabled"
@@ -508,13 +508,13 @@
 		{
 			dependencies: ["1ABBB0CCEECA066F"]
 			description: [
-				"&eFarmer's Delight&r also provides three basic resources that can be used to make decorations, such as hanging signs, to utilities, such as climable ropes and safety nets. "
+				"farmer 's Doneight은 또한 매달린 표지판과 같은 장식, 기업 적장 및 안전망과 같은 유틸리티에 장식 할 수있는 세 가지 기본 자원을 제공합니다."
 				""
-				"&eTree barks&r are obtained from using an axe on wood placed on a cutting board and can be used to make paper."
+				"tree Barks은 절단 보드에 놓인 나무에 도끼를 사용하여 얻을 수 있으며 종이를 만드는 데 사용할 수 있습니다."
 				""
-				"&eCanvas&r is made from straw and can replace leather in all recipes as well as make rugs and other decorations."
+				"canvas은 빨대로 만들어졌으며 모든 요리법에서 가죽을 대체 할 수있을뿐만 아니라 양탄자와 기타 장식을 만들 수 있습니다."
 				""
-				"&eStraw&r is obtained from cutting grass with a knife and can be used in numerous recipes such as crafting leads."
+				"straw은 칼로 잔디를 자르면서 얻어지며 공예 리드와 같은 수많은 레시피에 사용할 수 있습니다."
 			]
 			id: "21923B5086A5FA57"
 			rewards: [{
@@ -554,7 +554,7 @@
 		}
 		{
 			dependencies: ["3ADE97CD486AE65C"]
-			description: ["&eClams&r can be caught and opened on a &ecutting board&r which can sometimes result in precious &epearls.&r Even if they're useless, they're still shiny."]
+			description: ["clams은 A cutting Board에서 잡히고 열 수 있으며, 때로는 귀중한 pearls를 초래할 수 있습니다.은 쓸모가 없더라도 여전히 반짝입니다."]
 			id: "7D68159C74783F3C"
 			rewards: [{
 				auto: "enabled"
@@ -592,9 +592,9 @@
 		{
 			dependencies: ["462BAB455A040B51"]
 			description: [
-				"Use a &eknife&r on &ePropelplants&r to collect them. They can be planted on &eNetherrack, Nylium, or Rich Soul Soil&r."
+				"A knife on propelplants을 사용하여 수집하십시오.그들은 netherrack, 나일륨 또는 풍부한 영혼 토양에 심을 수 있습니다."
 				""
-				"The &eMachete&r is a better weapon to use for killing/harvesting &eHoglins&r over the knife. It may be a worthy weapon by itself."
+				"machete은 나이프 위로 살해/수확 hoglins에 사용하기에 더 나은 무기입니다.그 자체로는 가치있는 무기 일 수 있습니다."
 			]
 			id: "653E2D7F781C9BAA"
 			rewards: [{
@@ -987,17 +987,17 @@
 		}
 		{
 			description: [
-				"&eCooking for Blockheads&r makes your cooking experience a lot easier. Aside from Farmer's Delight which requires you to use the Pot, with Cooking for Blockhead you can cook all the food in one place. No recipe juggling necessary."
+				"cooke for blockheads은 요리 경험이 훨씬 쉬워집니다.냄비를 사용해야하는 농부의 기쁨 외에도 블록 헤드를 위해 요리하면 모든 음식을 한 곳에서 요리 할 수 있습니다.레시피 저글링이 필요하지 않습니다."
 				""
-				"Connect each component with &eKitchen Floors&r."
+				"각 구성 요소를 kitchen floors에 연결하십시오."
 				""
-				"The &eStove&r can cook multiple foods at once and can take FE as energy if upgraded."
+				"stove은 여러 음식을 한 번에 요리 할 수 있으며 업그레이드 된 경우 FE를 에너지로 사용할 수 있습니다."
 				""
-				"The &eSink&r provides infinite water for buckets and recipes."
+				"sink은 버킷과 레시피에 무한한 물을 제공합니다."
 				""
-				"The &eCooking Table&r is able to pull food and tools from blocks and fridges connected by Kitchen Floors."
+				"cooking table은 주방 바닥으로 연결된 블록과 냉장고에서 음식과 도구를 당길 수 있습니다."
 				""
-				"There are more pieces to add to your kitchen as well such as the &etoaster&r or &espice rack&r."
+				"toaster 또는 espice rack과 같이 주방에 추가 할 더 많은 조각이 있습니다."
 			]
 			id: "608DF81CF3DC9A64"
 			rewards: [{
@@ -1043,7 +1043,7 @@
 			y: 1.5d
 		}
 		{
-			description: ["By using &eCreate,&r you can cook foods that require special mechanics to make. Refer to the Technology chapter for more information."]
+			description: ["create를 사용하면 특별한 기계공이 필요한 음식을 요리 할 수 있습니다.자세한 내용은 기술 장을 참조하십시오."]
 			id: "6E87C65D44E40380"
 			rewards: [{
 				auto: "enabled"
@@ -1179,13 +1179,13 @@
 		}
 		{
 			description: [
-				"These blocks allow &eRefined Storage&r and &eCooking for Blockheads&r to work together!"
+				"이 블록은 블록 헤드이 함께 작동 할 수 있도록 스토리지 및 및 ecooking을 허용합니다!"
 				""
-				"The &eKitchen Station&r needs to be placed as part of the kitchen network and the &eKitchen Access Point&r needs to be placed in the Refined Storage Network."
+				"kitchen station은 주방 네트워크의 일부로 배치해야하며, kitchen 액세스 포인트은 정제 된 스토리지 네트워크에 배치해야합니다."
 				""
-				"The Kitchen Station acts as &eRefined Storage Network Receiver&r and needs to be attached to a &eKitchen Network Card&r. Then this Kitchen Network Card needs to be &eplaced inside&r a &eKitchen Access Point&r, which acts as a Refined Storage Network Transmitter."
+				"주방 스테이션은 Refined Storage Network 수신기 및 R으로 작용하며 A kitchen Network Card에 연결되어야합니다.그런 다음이 주방 네트워크 카드는 세련된 스토리지 네트워크 송신기 역할을하는 내부 및 R A kitchen Access Point을 배치해야합니다."
 				""
-				"Once everything is connected, you'll be able to &econsume items&r from your Refined Storage network right from your cooking table."
+				"모든 것이 연결되면 요리 테이블에서 세련된 스토리지 네트워크에서 아이템을 할 수 있습니다."
 			]
 			id: "712861ACFF721889"
 			rewards: [{

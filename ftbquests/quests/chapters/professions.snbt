@@ -17,17 +17,17 @@
 		{
 			dependencies: ["5B97985430859986"]
 			description: [
-				"Salvaging is the act of deconstructing your gear into materials that can be used to craft Profession items, gear, or repair."
+				"구제는 직업 품목, 장비 또는 수리를 만드는 데 사용될 수있는 재료로 장비를 해체하는 행위입니다."
 				""
-				"In order to use a Salvaging Station, you &lmust&r place a hopper above the station, and place your gear to be salvaged into the hopper."
+				"구제 스테이션을 사용하기 위해, 당신은 역 위에 호퍼를 놓고 기어를 호퍼로 구제하도록 배치하십시오."
 				""
-				"Your gear will be salvaged and you will receive materials as the output. &eWhen salvaging, there are 2 main outputs&r:"
+				"당신의 장비는 구제되며 출력으로 자료를 받게됩니다.hen 구제시기에는 2 개의 주요 출력이 있습니다. :"
 				""
-				"1. &eStones&r of varying rarity. These are used to repair or craft gear. They can also be used to craft other items. The rarity of the stone depends on the rarity of the gear salvaged."
+				"1. 다양한 희귀 성의 Estones.이들은 기어를 수리하거나 공예하는 데 사용됩니다.그들은 또한 다른 품목을 만드는 데 사용될 수 있습니다.돌의 희귀 성은 구제 된 기어의 희귀성에 달려 있습니다."
 				""
-				"2. &eSalvaging Essences&r which are used in other professions such as Alchemy. There are 3 rarities of Essence: Lesser, Medium, and Greater. Higher rarity essences appear less frequently."
+				"2. 연금술과 같은 다른 직업에서 사용되는 Esalvaging Essences.본질에는 3 가지 희귀 성이 있습니다 : 작고, 중간 및 더 큰.희귀 성 에센스가 높을수록 덜 자주 나타납니다."
 				""
-				"&cYou will not receive Essences if you salvage your gear via the Hub auto-salvaging function.&r"
+				"you는 허브 자동 살충 기능을 통해 장비를 구원하면 에센스를받지 못합니다."
 			]
 			id: "16525899DA8C3A74"
 			rewards: [{
@@ -36,7 +36,7 @@
 				title: "Medium Essence"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "0367855050B7E8AC"
 				item: "mmorpg:salvaging_station"
@@ -49,19 +49,19 @@
 		{
 			dependencies: ["06E3D7523619E263"]
 			description: [
-				"You can craft &eCrafted Gear Souls&r for the following: armor, offhands, jewelry, and weapons. When crafting gear, there are 5 ingredients:"
+				"갑옷, 오프 핸드, 보석류 및 무기를 위해 Gear Souls을 제작할 수 있습니다.장비를 제작할 때는 5 가지 성분이 있습니다."
 				""
-				"1. &eTiered Ore&r - earned from Mining, they are based on the item level you want to craft. The level ranges are the same as what you'd find in the Mining Profession."
+				"1. tiered Ore- 광업에서 얻은 이들은 제작하려는 품목 수준을 기준으로합니다.레벨 범위는 광업 직업에서 찾은 것과 동일합니다."
 				""
-				"2. &c4&r &eStones (Rarity)&r - the Stones determine the rarity of the gear you will craft. You can get these Stones while salvaging."
+				"2. 4 stones (Rarity)- 돌은 당신이 만들어 낼 기어의 희귀 성을 결정합니다.구제하는 동안이 돌을 얻을 수 있습니다."
 				""
-				"3. &eIdentifier Item&r - the item that determines whether you are crafting armor (Iron Ingot), offhands (String), jewelry (Gold Ingot), or weapons (Stick)."
+				"3. identifier item- 갑옷을 제작하는지 (철분 잉트), 오프 핸드 (스트링), 보석류 (골드 잉곳) 또는 무기 (스틱)를 제작하는 항목."
 				""
-				"4. &eCrystal&r - the rarity of the Crystal used in the recipe is determined by the level of the craft: &aLesser Crystal&r: Lv. 1-60, &9Medium Crystal&r: Lv. 61-100, &dGreater Crystal&r: Lv. 100."
+				"4. rystal R- 레시피에 사용 된 결정의 희귀 성은 공예 수준에 의해 결정됩니다 : lesser Crystal : LV.1-60, medium crystal : lv.61-100, 더 큰 크리스탈 르 : LV.100."
 				""
-				"5. &eMoney&r"
+				"5. money"
 				""
-				"You can always check the JEI to see what items are needed for &eCrafted Gear Souls&r."
+				"항상 JEI를 확인하여 crafted Gear Souls에 필요한 항목을 확인할 수 있습니다."
 			]
 			id: "66D05E37DC634CC8"
 			rewards: [
@@ -79,7 +79,7 @@
 					type: "loot"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "0BC1B554EEEDFF0E"
 				item: "mmorpg:gear_crafting_station"
@@ -96,23 +96,23 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"You can cook foods which will provide hunger and saturation, but also provide stat boosts. When cooking, there are 4 ingredients:"
+				"기아와 채도를 제공 할 음식을 요리 할 수 있지만 통계 부스트도 제공 할 수 있습니다.요리 할 때는 4 가지 성분이 있습니다."
 				""
-				"1. &eTiered Meat/Produce/Fish&r - earned from Hubsandry, Farming, and Fishing they are based on the item level you want to craft. The level ranges are the same as what you'd find in the gathering Professions. The type of food you use depends on what food you cook:"
+				"1. 에티어 고기/농산물/생선 - 허브 샌드리, 농업 및 낚시에서 얻은 그들은 당신이 만들고자하는 품목 수준을 기준으로합니다.레벨 범위는 모임 직업에서 찾을 수있는 것과 동일합니다.사용하는 음식의 종류는 요리하는 음식에 따라 다릅니다."
 				""
-				"&cMeat&r: Health/Magic Shield Regen"
-				"&2Produce&r: Mana/Energy Regen"
-				"&bFish&r: EXP/Loot"
+				"meat : 건강/마술 방패 재생"
+				"precture : 마나/에너지 재생"
+				"fish : exp/loot"
 				""
-				"2. &eOther Food Item&r - generally used as an additional ingredient that can also determine what food you're cooking. Apple (Health), Potato (Magic Shield), Beetroot (Mana), Carrot (Energy), Tropical Fish (EXP), Pufferfish (Loot)."
+				"2. other food requil- 일반적으로 요리하는 음식을 결정할 수있는 추가 성분으로 사용됩니다.사과 (건강), 감자 (매직 쉴드), 사탕무 (마나), 당근 (에너지), 열대 물고기 (Exp), 복어 (전리품)."
 				""
-				"3. &eBeef/Root/Puffer&r - the rarity of the item used in the recipe determines the rarity of the food cooked. Beef is used in Meat dishes, Roots are used in Produce dishes and the Puffer is used for seafood (EXP/Loot) dishes."
+				"3. beef/root/puffer- 레시피에 사용 된 품목의 희귀 성은 요리 된 음식의 희귀 성을 결정합니다.쇠고기는 고기 요리에 사용되며 뿌리는 생산 요리에 사용되며 복어는 해산물 (Exp/Loot) 요리에 사용됩니다."
 				""
-				"4. &eMoney&r"
+				"4. money"
 				""
-				"You can always check the JEI to see what items are needed for &eCooking&r."
+				"항상 JEI를 확인하여 필요한 항목 및 ecooking을 확인할 수 있습니다."
 				""
-				"&eRequires 1 dependency to be completed.&r"
+				"REQUIRES 1 의존성 완료."
 			]
 			id: "0402FA5F0E1D4835"
 			rewards: [
@@ -130,7 +130,7 @@
 					type: "loot"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "286493E91C2A3DE3"
 				item: "mmorpg:cooking_station"
@@ -143,29 +143,28 @@
 		{
 			dependencies: ["4E27A84CE1F030A1"]
 			description: [
-				"You can brew potions which can recover health and resources, or provide stat boosts. When brewing, there are 4-5 ingredients:"
+				"건강과 자원을 회복하거나 통계 부스트를 제공 할 수있는 물약을 양조 할 수 있습니다.양조 할 때 4-5 개의 성분이 있습니다."
 				""
-				"1. &eTiered Meat/Produce/Fish&r - earned from Hubsandry, Farming, and Fishing they are based on the item level you want to craft. The level ranges are the same as what you'd find in the gathering Professions. The type of food you use depends on what potion you brew:"
+				"1. 티어 고기/농산물/생선 - 허브 샌드리, 농업 및 낚시에서 얻은 그들은 당신이 만들고자하는 품목 수준을 기준으로합니다.레벨 범위는 모임 직업에서 찾을 수있는 것과 동일합니다.당신이 사용하는 음식의 종류는 당신이 양조하는 물약에 따라 다릅니다."
 				""
-				"&cMeat&r: Health/Resource Potion"
-				"&2Produce&r: Core Stat Potion"
-				"&bFish&r: Damage Buff Potion"
+				"meat : 건강/자원 물약"
+				"prece : 코어 스탯 포트"
+				"fish 상 버프 물약"
 				""
-				"2. 1-2 &eOther Food Items&r - used as an additional ingredient:"
-				"&cHealth&r: 1x Wheat + 1x Tomato"
-				"&bResource&r: 1x Carrot + 1x Onion"
-				"&cStrength&r: 3x Potato"
-				"&9Intelligence&r: 3x Nether Wart"
-				"&aDexterity&r: 3x Carrot"
-				"&4Physical Damage&r: 1x Melon Slice"
-				"&1Spell Damage&r: 5x Cocoa Beans"
-				"&eCrit Damage&r: 1x Golden Carrot"
+				"2. 1-2 other 음식 품목- 추가 성분으로 사용 :"
+				"health : 1x 밀 + 1x 토마토"
+				"resource : 1x 당근 + 1x 양파"
+				"strength : 3x 감자"
+				"intelligence : 3x Nether 사마귀"
+				"dexterity : 3x 당근"
+				"PHYSICAL DAMES : 1X 멜론 슬라이스"
+				" 스펠 피해 : 5x 코코아 콩"
+				"crit damage : 1x 골든 당근"
+				""		"3tone 또는 essence- 석재는 건강 및 자원 물약에 사용되며, 에센스는 핵심 통계 및 손상 버프 물약에 사용됩니다.레시피에 사용 된 돌과 에센스는 물약의 희귀 성을 결정합니다.일반적인 돌은 일반적인 물약을 만들고, 덜 본질은 덜 물약 등을 만들어냅니다."
 				""
-				"3. &eStone&r OR &eEssence&r - Stones are used for Health and Resource Potions, and Essences are used for Core Stat and Damage Buff Potions. Stones and Essences used in the recipe determine the rarity of the potion. A Common Stone will craft a Common Potion, a Lesser Essence will craft a Lesser Potion, etc."
+	"4. money"
 				""
-				"4. &eMoney&r"
-				""
-				"You can always check the JEI to see what items are needed for &eAlchemy&r."
+				"항상 jei를 확인하여 alchemy에 필요한 항목을 확인할 수 있습니다."
 			]
 			id: "69CEB39AA409EB41"
 			rewards: [
@@ -195,7 +194,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "1E06AAEDAF51CAC4"
 				item: "mmorpg:alchemy_station"
@@ -208,20 +207,20 @@
 		{
 			dependencies: ["06E3D7523619E263"]
 			description: [
-				"You can craft &eEnchantment&r for the following: armor, offhands, jewelry, and weapons. When crafting the scrolls, there are 6 ingredients:"
+				"갑옷, 오프 핸드, 보석류 및 무기를 위해 Craft enchantment을 만들 수 있습니다.두루마리를 제작할 때 6 가지 성분이 있습니다."
 				""
-				"1. &eTiered Ore&r - earned from Mining, they are based on the item level you want to craft. The level ranges are the same as what you'd find in the Mining Profession."
+				"1. tiered Ore- 광업에서 얻은 이들은 제작하려는 품목 수준을 기준으로합니다.레벨 범위는 광업 직업에서 찾은 것과 동일합니다."
 				""
-				"2. &c4&r &eStones (Rarity)&r - the Stones determine the rarity of the Echantment you will craft. You can get these Stones while salvaging."
+				"2. 4 stones (Rarity)- 돌은 당신이 만들 수있는 반향의 희귀 성을 결정합니다.구제하는 동안이 돌을 얻을 수 있습니다."
 				""
-				"3. &eIdentifier Item&r - the item that determines whether you are crafting the scroll for armor (Iron Ingot), offhands (String), jewelry (Gold Ingot), or weapons (Stick)."
+				"3. identifier item- 갑옷 스크롤을 제작하는지 여부를 결정하는 항목 (Iron Ingot), 오프 핸드 (스트링), 보석류 (골드 잉곳) 또는 무기 (스틱)."
 				""
-				"4. &eCrystal&r - the rarity of the Crystal used in the recipe is determined by the level of the craft: &aLesser Crystal&r: Lv. 1-60, &9Medium Crystal&r: Lv. 61-100, &dGreater Crystal&r: Lv. 100."
+				"4. rystal R- 레시피에 사용 된 결정의 희귀 성은 공예 수준에 의해 결정됩니다 : lesser Crystal : LV.1-60, medium crystal : lv.61-100,  큰 크리스탈 르 : LV.100."
 				""
-				"5/6. &ePaper and Money&r"
+				"5/6.paper and money"
 				""
-				"You can always check the JEI to see what items are needed for &eEnchantments&r."
-			]
+	"항상 JEI를 확인하여 enchantments에 필요한 항목을 확인할 수 있습니다."
+	
 			id: "5DA0A1825512C2E3"
 			rewards: [
 				{
@@ -251,7 +250,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "4A22DE4DF9A47E2D"
 				item: "mmorpg:enchanting_station"
@@ -264,22 +263,22 @@
 		{
 			dependencies: ["5B97985430859986"]
 			description: [
-				"Mining any types of ores will grant you Mining experience. However, you will only earn the full amount of experience from ores relative to your Mining level:"
+				"모든 유형의 광석을 채굴하면 광업 경험이 있습니다.그러나 광업 수준에 비해 광석으로부터 전액의 경험 만 얻을 수 있습니다."
 				""
-				"&eLv. 1-20&r (&7Tier 0&r): Coal"
-				"&eLv. 21-40&r (&aTier 1&r): Copper, Zinc, Redstone"
-				"&eLv. 41-60&r (&9Tier 2&r): Iron, Lapis"
-				"&eLv. 61-80&r (&dTier 3&r): Gold, Quartz, Cloggrum"
-				"&eLv. 81-100&r (&6Tier 4&r): Emerald, Froststeel, Utherium"
-				"&eLv. 100&r (&5Tier 5&r): Diamond, Regalium"
+				"lv.1-20 (Tier 0) : 석탄"
+				"lv.21-40 (tier 1) : 구리, 아연, 레드 스톤"
+				"lv.41-60 (Tier 2) : 철, 라피스"
+				"lv.61-80 (tier 3) : 금, 석영, 클로그럼"
+				"lv.81-100 (Tier 4) : Emerald, Froststeel, Utherium"
+				"lv.100 (5Tier 5) : 다이아몬드, 로얄"
 				""
-				"&cThat doesn't mean you won't receive any experience from items outside your level range, just less.&r"
+				"빌"
 				""
-				"While mining, you will find 2 different types of drops:"
+				"채굴하는 동안 두 가지 유형의 방울을 찾을 수 있습니다."
 				""
-				"1. &eTiered Ore Blocks&r (&7Spritual&r, &aCelestial&r. &9Emyprean&r, &dAngelic&r, &6Divine&r, and &5Godly&r, which drop by chance depending on your level and the level range of the ore you are mining. These ore blocks can be smelted or blasted into ores, which can then be used in other Professions."
+				"1. tiered 광석 블록 spritual, celestial. emyprean, angelic, divine, godly, 당신의 수준과 광업에 따라 우연히 떨어지는 광산의 수준 범위는 광업입니다.그런 다음 다른 직업에서 사용할 수 있습니다."
 				""
-				"2. &eCrystals&r of varying rarity. Higher rarities drop less frequently, but can still be found at all levels. These are used in crafting."
+				"2. crystals의 다양한 희귀 성.더 높은 희귀 성은 덜 자주 떨어지지 만 여전히 모든 수준에서 찾을 수 있습니다.이들은 제작에 사용됩니다."
 			]
 			id: "06E3D7523619E263"
 			rewards: [{
@@ -288,7 +287,7 @@
 				title: "Medium Crystal"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "19BB6A94ECC3A565"
 				item: {
@@ -307,22 +306,22 @@
 		{
 			dependencies: ["5B97985430859986"]
 			description: [
-				"Farming and harvesting produce will grant you Farming experience. However, you will only earn the full amount of experience from plants relative to your Farming level:"
+				"농산물과 수확 농산물은 농업 경험을 부여 할 것입니다.그러나 농업 수준에 비해 식물로부터 전액의 경험을 얻을 수 있습니다."
 				""
-				"&eLv. 1-20&r (&7Tier 0&r): Wheat, Potato, Flax"
-				"&eLv. 21-40&r (&aTier 1&r): Melon, Pumpkin"
-				"&eLv. 41-60&r (&9Tier 2&r): Beetroot, Cabbage"
-				"&eLv. 61-80&r (&dTier 3&r): Carrot, Gysahl Green, Tomato"
-				"&eLv. 81-100&r (&6Tier 4&r): Nether Wart, Gloomgourd"
-				"&eLv. 100&r (&5Tier 5&r): Cocoa Beans"
+				"lv.1-20 (Tier 0) : 밀, 감자, 아마"
+				"lv.21-40 (tier 1) : 멜론, 호박"
+				"lv.41-60 (Tier 2) : 사탕무 뿌리, 양배추"
+				"lv.61-80 (tier 3) :, Gysahleen, 토마토"
+				"lv.81-100 (Tier 4) : 황천 사마귀, Gloomgourd"
+				"lv.100 (Tier 5) : 코코아 콩"
 				""
-				"&cThat doesn't mean you won't receive any experience from items outside your level range, just less.&r"
+				"빌"
 				""
-				"While harvesting, you will find 2 different types of drops:"
+				"수확하는 동안 두 가지 유형의 방울을 찾을 수 있습니다."
 				""
-				"1. &eTiered Produce&r (&7Spritual&r, &aCelestial&r. &9Emyprean&r, &dAngelic&r, &6Divine&r, and &5Godly&r), which drop by chance depending on your level and the level range of the plant you are harvesting. These can then be used in other Professions."
+				"1. tiered Produce (spritual, celestial. emyprean, angelic, divine 및5godly).그런 다음 다른 직업에서 사용할 수 있습니다."
 				""
-				"2. &eRoots&r of varying (Lesser, Medium, Greater) rarity. Higher rarities drop less frequently, but can still be found at all levels. These are used in crafting."
+				"2.더 높은 희귀 성은 덜 자주 떨어지지 만 여전히 모든 수준에서 찾을 수 있습니다.이들은 제작에 사용됩니다."
 			]
 			id: "350315F71B69062F"
 			rewards: [{
@@ -331,7 +330,7 @@
 				title: "Medium Root"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "48940014C4EC1677"
 				item: {
@@ -350,13 +349,13 @@
 		{
 			dependencies: ["5B97985430859986"]
 			description: [
-				"Fishing any fish will grant you Fishing experience. "
+				"물고기 낚시는 낚시 경험을 부여합니다."
 				""
-				"While fishing, you will find 2 different types of drops:"
+				"낚시하는 동안 두 가지 유형의 방울이 있습니다."
 				""
-				"1. &eTiered Fish&r (&7Spritual&r, &aCelestial&r. &9Emyprean&r, &dAngelic&r, &6Divine&r, and &5Godly&r), which drop by chance depending on your level. For example, &7Spiritual&r Fish drop while your Fishing level is between 1-20, &aCelestial&r while your level is between 21-40, etc. The fish can then be used in other Professions."
+				"1. tiered fish (spritual, celestial. emyprean, angelic, divine 및5godly).예를 들어, spiritual 어류는 낚시 수준이 1-20, celestial은 21-40 사이입니다. 그런 다음 물고기는 다른 직업에서 사용할 수 있습니다."
 				""
-				"2. &ePuffers&r of varying (Lesser, Medium, Greater) rarity. Higher rarities drop less frequently, but can still be found at all levels. These are used in crafting."
+				"2. puffers은 다양한 (작고, 중간, 더 큰) 희귀 성입니다.더 높은 희귀 성은 덜 자주 떨어지지 만 여전히 모든 수준에서 찾을 수 있습니다.이들은 제작에 사용됩니다."
 			]
 			id: "5BAFAA732A026ADD"
 			rewards: [{
@@ -365,7 +364,7 @@
 				title: "Medium Fish"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "5433C4BA3B7B3B42"
 				item: {
@@ -384,13 +383,13 @@
 		{
 			dependencies: ["5B97985430859986"]
 			description: [
-				"Breeding animals will increase you Husbandry level."
+				"번식 동물은 당신의 축산 수준을 높일 것입니다."
 				""
-				"While breeding animals, you will find 2 different types of drops:"
+				"동물을 번식시키는 동안 두 가지 유형의 방울을 찾을 수 있습니다."
 				""
-				"1. &eTiered Meats&r (&7Spritual&r, &aCelestial&r. &9Emyprean&r, &dAngelic&r, &6Divine&r, and &5Godly&r), which drop by chance depending on your level. For example, &7Spiritual&r Meat drop while your Husbandry level is between 1-20, &aCelestial&r while your level is between 21-40, etc. The meat can then be used in other Professions."
+				"1. tiered meats (spritual, celestial. emyprean, angelic, divine 및5godly).예를 들어, spiritual 육류는 남편 수준이 1-20, celestial은 21-40 사이입니다. 그런 다음 고기는 다른 직업에서 사용할 수 있습니다."
 				""
-				"2. &eBeefs&r of varying (Lesser, Medium, Greater) rarity. Higher rarities drop less frequently, but can still be found at all levels. These are used in crafting."
+				"2. beefs은 다양한 (작고, 중간, 더 큰) 희귀 성입니다.더 높은 희귀 성은 덜 자주 떨어지지 만 여전히 모든 수준에서 찾을 수 있습니다.이들은 제작에 사용됩니다."
 			]
 			id: "4E27A84CE1F030A1"
 			rewards: [{
@@ -399,7 +398,7 @@
 				title: "Medium Beef"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "19DE644926921DDB"
 				item: "minecraft:wheat"
@@ -411,24 +410,24 @@
 		}
 		{
 			description: [
-				"Mine and Slash adds its very own Profession system. Professions are split into 3 categories:"
+				"광산과 슬래시는 자체 직업 시스템을 추가합니다.직업은 3 가지 범주로 나뉩니다."
 				""
-				"&e&lGathering:&r&r"
-				"- &2Farming&r: gather materials when harvesting produce."
-				"- &7Mining&r: gather materials while mining."
-				"- &6Husbandry&r: earn materials while breeding animals."
-				"- &9Fishing&r: gather special fish by chance while fishing."
+				" gathering :"
+				"- farming : 농산물을 수확 할 때 재료를 모으십시오."
+				"- mining : 채굴하는 동안 자료를 수집하십시오."
+				"- husbandry : 동물을 번식시키는 동안 재료를 얻습니다."
+				fishing : 낚시하는 동안 우연히 특별한 물고기를 모으십시오."
 				""
-				"&e&lCrafting:&r&r"
-				"- &cCooking&r: cook up foods that provide stat, drop, and expereince bonuses for a period of time upon consumption."
-				"- &5Alchemy&r: create powerful brews to enhance your stats for a period of time."
-				"- &bEnchanting&r: craft scrolls to enhance your gear."
-				"- &eGear Crafting&r: craft gear to be used in combat."
+				" crafting :"
+				"- ooking : 소비시 일정 시간 동안 통계, 드롭 및 경험을 제공하는 음식을 요리합니다."
+				"- alchemy : 일정 기간 동안 통계를 향상시키기 위해 강력한 양조장을 만듭니다."
+				"- enchanting : 기어를 향상시키기위한 공예 스크롤."
+				"- gear Crafting : 전투에서 사용할 수있는 공예 장비."
 				""
-				"&e&lOther:&r&r"
-				"- &4Salvaging&r: extract resources from gear when salvaged in a Salvaging Station &e(does not apply to auto-salvaging through the Hub)&r."
+				" other :"
+				"- salvaging : 구제 스테이션에서 구제 할 때 기어에서 자원을 추출합니다 (허브를 통한 자동 살포에는 적용되지 않음)."
 				""
-				"&c&lNote: Professions cannot be leveled beyond your Mine and Slash level!&r&r"
+				" note : 직업은 당신의 광산과 슬래시 레벨을 넘어 평평해질 수 없습니다!"
 			]
 			icon: {
 				Count: 1b
@@ -448,7 +447,7 @@
 				title: "1000 Experience"
 				type: "command"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "3921C843B8906ADB"
 				title: "Click Once Read"
@@ -460,7 +459,7 @@
 		}
 		{
 			dependencies: ["5B97985430859986"]
-			description: ["Tools in Craft to Exile 2 can gain levels with use. As they increase in level, they can gain affixes which will grant various improvements!"]
+			description: ["크래프트에서 망명 2의 도구는 사용하면 레벨을 얻을 수 있습니다.레벨이 증가함에 따라 다양한 개선을 허용하는 부착을 얻을 수 있습니다!"]
 			icon: "minecraft:paper"
 			id: "4FC11A47AE877347"
 			rewards: [{
@@ -468,7 +467,7 @@
 				item: "lightmanscurrency:coin_iron"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions Lost Page"
+			subtitle: "M\\ Professions Lost Page"
 			tasks: [{
 				id: "425830C92EB05E74"
 				title: "Click Once Read"
@@ -481,9 +480,9 @@
 		{
 			dependencies: ["66D05E37DC634CC8"]
 			description: [
-				"Mastery Seals are applied to your Profession tool (pickaxe, fishing rod, etc.) to cap the level of drops. This is useful because you may need lower level materials earned from Mining, Fishing, etc., for the crafting Professions (Gear Crafting, Cooking, etc.)."
+				"마스터리 씰은 직업 도구 (곡예, 낚시로드 등)에 적용되어 방울 수준을 막습니다.이는 제작 직업 (기어 제작, 요리 등)을 위해 채굴, 낚시 등으로 얻은 낮은 수준의 재료가 필요할 수 있기 때문에 유용합니다."
 				""
-				"To craft Mastery Seals, you will need to use Ores in a &eGear Crafting Station&r. Higher tiered Ores will craft higher tiered Mastery Seals."
+				"Mastery Seals를 제작하려면 A gear Crafting Station에서 광석을 사용해야합니다.더 높은 계층 광석은 더 높은 계층 마스터리 씰을 만들 것입니다."
 			]
 			id: "46624096082CAC57"
 			rewards: [
@@ -500,7 +499,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "43E7E5DAEF317564"
 				item: "mmorpg:currency/mastery_seal0"
@@ -513,9 +512,9 @@
 		{
 			dependencies: ["66D05E37DC634CC8"]
 			description: [
-				"Sharpening Stones can be used on your gear to increase their potency. The quality increase is reflected in the gear's base stat (Weapon Damage, Armor, Dodge Rating, etc.)."
+				"기어에서 돌을 샤프하는 데 사용하여 효능을 높일 수 있습니다.품질 증가는 기어의 기본 통계 (무기 손상, 갑옷, 닷지 등급 등)에 반영됩니다."
 				""
-				"You can craft Sharpening Stones in the &eGear Crafting Station&r using Stones. As you find higher rarity Stones, you will be able to craft better Sharpening Stones."
+				"석재를 사용하여 gear 제작 스테이션 및 R에서 샤프닝 스톤을 만들 수 있습니다.더 높은 희귀 성 돌을 발견하면 더 나은 날카로운 돌을 만들 수 있습니다."
 			]
 			id: "141FEAAFF05B9AD0"
 			rewards: [
@@ -533,7 +532,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "0A06314AF113F9B0"
 				item: "mmorpg:currency/sharpening_stone0"
@@ -546,15 +545,15 @@
 		{
 			dependencies: ["69CEB39AA409EB41"]
 			description: [
-				"Brew the potions with the following:"
+				"다음과 같이 물약을 양조하십시오."
 				""
-				"1x &7Spiritual Meat&r"
-				"1x &7Common Stone&r"
-				"1x Wheat/Carrot"
-				"1x Tomato/Onion"
-				"1x Copper Coin"
+				"1x  흡기 고기"
+				"1x common stone"
+				"1X 밀/당근"
+				"1X 토마토/양파"
+				"1x 구리 동전"
 				""
-				"&cThe order of materials doesn't matter, but the output of the station must be empty!&r"
+				" 재료의 순서는 중요하지 않지만 스테이션의 출력은 비어 있어야합니다!"
 			]
 			id: "50FD77E095AAC45F"
 			rewards: [{
@@ -564,7 +563,7 @@
 				title: "Rare Stones"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [
 				{
 					count: 16L
@@ -600,14 +599,14 @@
 		{
 			dependencies: ["69CEB39AA409EB41"]
 			description: [
-				"Brew the potions with the following:"
+				"다음과 같이 물약을 양조하십시오."
 				""
-				"1x &7Spiritual Produce&r"
-				"3x Potato/Nether Wart/Carrot"
-				"1x &aLesser Essence&r"
-				"1x Copper Coin"
+				"1x  흡기 농산물"
+				"3X 감자/황천 사마귀/당근"
+				"1X lesser Essence"
+				"1x 구리 동전"
 				""
-				"&cThe order of materials doesn't matter, but the output of the station must be empty!&r"
+				" 재료의 순서는 중요하지 않지만 스테이션의 출력은 비어 있어야합니다!"
 			]
 			id: "53205D57DBDEE858"
 			rewards: [
@@ -625,7 +624,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [
 				{
 					id: "1673E0EA465EEEFC"
@@ -671,18 +670,18 @@
 		{
 			dependencies: ["5DA0A1825512C2E3"]
 			description: [
-				"Craft an &eUncommon Armor Enchantment&r with the following:"
+				"다음과 같은 AN uncommon Armor Enchantment Craft :"
 				""
-				"1x &aCelestial Ore&r"
-				"4x &aUncommon Stone&r"
-				"1x Iron Ingot"
-				"1x Paper"
-				"1x &aLesser Crystal&r"
-				"5x Copper Coin"
+				"1x celestial ore"
+				"4x uncommon Stone"
+				"1x 철분 잉트"
+				"1x 종이"
+				"1x lesser Crystal"
+				"5x 구리 동전"
 				""
-				"&cThe Enchantment has a chance of failure when used&r, but you will see the item's tooltip update with \"Enchantment\" once successful. &cEnchantments must be applied in rarity order.&r Meaning you must start with a successful common Enchantment before applying an uncommon one. You cannot apply a rare Enchantment onto an item with a common Enchantment. The colour of the \"Enchantment\" tooltip denotes the rarity of the enchantment."
+				" 마법은 사용될 때 실패 할 가능성이 있지만 \가있는 항목의 툴팁 업데이트가 표시됩니다."Enchantment\"일단 성공하면.enchantments는 희귀 한 순서로 적용되어야합니다.은 드문 일을 적용하기 전에 성공적인 공통 마법으로 시작해야합니다.일반적인 마법이있는 아이템에 드문 마법을 적용 할 수 없습니다.\의 색상"Enchantment\"툴팁은 마법의 희귀 성을 나타냅니다."
 				""
-				"&cThe order of materials doesn't matter, but the output of the station must be empty!&r"
+				" 재료의 순서는 중요하지 않지만 스테이션의 출력은 비어 있어야합니다!"
 			]
 			id: "13CE922E843B9A50"
 			rewards: [
@@ -701,7 +700,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "46602E72F4D06D1C"
 				item: {
@@ -721,14 +720,14 @@
 		{
 			dependencies: ["0402FA5F0E1D4835"]
 			description: [
-				"Craft the food with the following:"
+				"다음과 함께 음식을 만들어냅니다."
 				""
-				"1x &7Spiritual Fish&r"
-				"1x Tropical Fish"
-				"1x &aLesser Puffer&r"
-				"1x Copper Coin"
+				"1X SPIRITUAL FISH"
+				"1x 열대 물고기"
+				"1X lesser Puffer"
+				"1x 구리 동전"
 				""
-				"&cThe order of materials doesn't matter, but the output of the station must be empty!&r"
+				" 재료의 순서는 중요하지 않지만 스테이션의 출력은 비어 있어야합니다!"
 			]
 			id: "29BD14415C264D41"
 			rewards: [{
@@ -737,7 +736,7 @@
 				title: "Greater Puffer"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "14728EE82752D08A"
 				item: {
@@ -757,14 +756,14 @@
 		{
 			dependencies: ["0402FA5F0E1D4835"]
 			description: [
-				"Craft the foods with the following:"
+				"다음과 같이 음식을 만들어냅니다."
 				""
-				"1x &7Spiritual Meat/Produce&r"
-				"1x Apple/Beetroot"
-				"1x &aLesser Beef/Root&r"
-				"1x Copper Coin"
+				"1x  가지 영양 고기/농산물"
+				"1x 사과/사탕무"
+				"1X lesser Beef/Root"
+				"1x 구리 동전"
 				""
-				"&cThe order of materials doesn't matter, but the output of the station must be empty!&r"
+				" 재료의 순서는 중요하지 않지만 스테이션의 출력은 비어 있어야합니다!"
 			]
 			id: "74D3767A981DAE84"
 			rewards: [{
@@ -773,7 +772,7 @@
 				title: "Greater Root"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [
 				{
 					id: "0007D7D85660469C"
@@ -807,19 +806,19 @@
 		{
 			dependencies: ["66D05E37DC634CC8"]
 			description: [
-				"Craft a &eCrafted Common Jewelry Soul&r with the following:"
+				"Craft A crafted Common Jewlry Soul과 함께 :"
 				""
-				"1x &7Spiritual Ore&r"
-				"4x &7Common Stone&r"
-				"1x Gold Ingot"
-				"1x &aLesser Crystal&r"
-				"1x Copper Coin"
+				"1X SPIRITUAL 광석"
+				"4x common stone"
+				"1x 골드 잉곳"
+				"1x lesser Crystal"
+				"1x 구리 동전"
 				""
-				"The Crafted Gear Soul will work on any base item."
+				"제작 된 Gear Soul은 모든 기본 품목에서 작동합니다."
 				""
-				"However, when applied on armor, there is a &c33% chance&r it will roll as &eArmor, Dodge, or Magic Shield&r. To &eguarantee&r the base type, you can use &ecraftable Soul Modifiers&r."
+				"그러나 갑옷에 적용되면 A 33% 확률이은 armor, Dodge 또는 Magic Shield을 굴립니다.기본 유형 인 guarantee, 당신은 craftable soul modifiers을 사용할 수 있습니다."
 				""
-				"&cThe order of materials doesn't matter, but the output of the station must be empty!&r"
+				" 재료의 순서는 중요하지 않지만 스테이션의 출력은 비어 있어야합니다!"
 			]
 			id: "7C542CE6F026787C"
 			rewards: [
@@ -845,7 +844,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [{
 				id: "394F2627DA3AB85C"
 				item: {
@@ -865,14 +864,14 @@
 		{
 			dependencies: ["69CEB39AA409EB41"]
 			description: [
-				"Brew the potions with the following:"
+				"다음과 같이 물약을 양조하십시오."
 				""
-				"1x &7Spiritual Fish&r"
-				"1x Melon Slice/Golden Carrot or 5x Cocoa Beans"
-				"1x &aLesser Essence&r"
-				"1x Copper Coin"
+				"1X SPIRITUAL FISH"
+				"1X 멜론 슬라이스/황금 당근 또는 5 배 코코아 콩"
+				"1X lesser Essence"
+				"1x 구리 동전"
 				""
-				"&cThe order of materials doesn't matter, but the output of the station must be empty!&r"
+				" 재료의 순서는 중요하지 않지만 스테이션의 출력은 비어 있어야합니다!"
 			]
 			id: "609557127CC400F5"
 			rewards: [
@@ -890,7 +889,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [
 				{
 					id: "7A9908F77070FDB2"
@@ -936,13 +935,13 @@
 		{
 			dependencies: ["69CEB39AA409EB41"]
 			description: [
-				"Brew the potions with the following:"
+				"다음과 같이 물약을 양조하십시오."
 				""
-				"1x Glass Bottle"
-				"1x Common/Uncommon/Rare Stone"
-				"1x Iron/Gold Ingot or Diamond"
+				"1 배 유리 병"
+				"1 배 일반/공통/희귀 돌"
+				"1x 철/금 잉곳 또는 다이아몬드"
 				""
-				"&cThe order of materials doesn't matter, but the output of the station must be empty!&r"
+				" 재료의 순서는 중요하지 않지만 스테이션의 출력은 비어 있어야합니다!"
 			]
 			id: "70D6378FAA39BED0"
 			rewards: [{
@@ -951,7 +950,7 @@
 				item: "minecraft:diamond"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions"
+			subtitle: "M\\ Professions"
 			tasks: [
 				{
 					id: "1E21EAC7B1294917"
@@ -975,9 +974,9 @@
 		{
 			dependencies: ["5B97985430859986"]
 			description: [
-				"&eCrafting Stations&r for each of the Professions are &etied to the player that placed them&r."
+				"crafting stations 각 직업에 대한은 그들을 배치 한 플레이어에게 제공됩니다."
 				""
-				"Each player will need their own set of Crafting Stations!"
+				"각 플레이어는 자신의 공예 스테이션 세트가 필요합니다!"
 			]
 			icon: "minecraft:paper"
 			id: "3C7E703FC750E2B3"
@@ -986,7 +985,7 @@
 				item: "lightmanscurrency:coin_iron"
 				type: "item"
 			}]
-			subtitle: "M\\&S Professions Lost Page"
+			subtitle: "M\\ Professions Lost Page"
 			tasks: [{
 				id: "6A644AC376F30A75"
 				title: "Click Once Read"
@@ -997,5 +996,5 @@
 			y: 0.0d
 		}
 	]
-	title: "&aM\\&S Professions&r"
+	title: "M\\ Professions"
 }

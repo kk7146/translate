@@ -17,7 +17,7 @@
 			"59242A72A38A5A9A"
 			"6DF33D1B5C76639B"
 		]
-		description: ["Wow. You've completed all side quests! Congratulations!"]
+		description: ["우와. 당신은 모든 측면 퀘스트를 완료했습니다! 축하해요!"]
 		icon: {
 			Count: 1b
 			id: "stalwart_dungeons:teleporter_pearl"

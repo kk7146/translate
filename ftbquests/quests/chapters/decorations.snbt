@@ -10,11 +10,11 @@
 	quests: [
 		{
 			description: [
-				"Each &eWind Chime&r produces different ambient sounds respective to their material. They also scare away Phantoms within a 25-block radius."
+				"각 wind chime은 자료에 따라 각각 다른 주변 사운드를 생성합니다.그들은 또한 25 블록 반경 내에서 팬텀을 두려워합니다."
 				""
-				"The &eGlass Wind Bell&r can have dyes applied to it to make a custom design. Wash off the design by right clicking a water source block."
+				"glass wind bell은 커스텀 디자인을 만들기 위해 염료를 적용 할 수 있습니다.수원 블록을 마우스 오른쪽 버튼으로 클릭하여 디자인을 씻으십시오."
 				""
-				"You can &etie/untie&r a Wind Chime by crouching + right-clicking a Wind Chime block with an empty hand to stop the phantom scaring effect."
+				"당신은 멍청한 겁에 질린 효과를 막기 위해 빈 손으로 바람의 차임 블록을 마우스 오른쪽 단추로 클릭하여 욕심을 crouching + Wind Chime을 Etie/Untie을 할 수 있습니다."
 			]
 			id: "0E7863B918B4B195"
 			rewards: [{
@@ -73,7 +73,7 @@
 			y: 1.5d
 		}
 		{
-			description: ["&eNight Lights &radds decorative light sources that can be toggled on and off."]
+			description: ["night lightsadds 켜고 끄질 수있는 장식 광원."]
 			id: "31C042465B27EC87"
 			rewards: [{
 				auto: "enabled"
@@ -257,7 +257,7 @@
 			y: 1.5d
 		}
 		{
-			description: ["&eSupplementaries&r and &eSupplementaries Squared&r adds numerous &edecoration and functional&r blocks that are relatively easy to craft and use."]
+			description: ["supplementaries 및 supplementaries squared은 비교적 쉽게 제작하고 사용하기 쉬운 수많은 decoration 및 기능적 블록을 추가합니다."]
 			id: "74E14D9A9F4799D4"
 			rewards: [{
 				auto: "enabled"
@@ -304,11 +304,11 @@
 		{
 			dependencies: ["55FCEBF7CCC646EA"]
 			description: [
-				"&eDomum Ornamentum&r adds a large amount of blocks that can be crafted using the &eArchitect's Cutter&r. Blocks can be skinned with other materials/blocks placed into the cutter. Technically, the mod can generate an \"infinte\" number of blocks for you to build with."
+				"domum Ornamentum은 architect의 Cutter을 사용하여 제작할 수있는 많은 양의 블록을 추가합니다.블록은 커터에 배치 된 다른 재료/블록으로 피부를 뿌릴 수 있습니다.기술적으로 모드는 \를 생성 할 수 있습니다."infinte\"구축 할 블록 수."
 				""
-				"To use, place basic blocks into the first slot to act as the &e\"template\".&r Then, add blocks or raw materials to either the side or bottom."
+				"사용하려면 기본 블록을 첫 번째 슬롯에 넣어  \로 작동합니다."template\ 그런 다음 측면 또는 바닥에 블록이나 원료를 추가하십시오."
 				""
-				"&eMinecolonies&r makes extensive use of these blocks. Hover over the block in the Minecolonies building materials list to see how to craft the specific block."
+				"minecolonies은 이러한 블록을 광범위하게 사용합니다.Minecolonies 건축 자재 목록의 블록 위로 마우스를 가져와 특정 블록을 만드는 방법을 확인하십시오."
 			]
 			id: "4DE44DAB8C077369"
 			rewards: [{
@@ -333,13 +333,13 @@
 		}
 		{
 			description: [
-				"Minecolonies allows you to build your own self sustaining and producing colony. Your colonists will each have skills they level up as they work. They require food, tools, and will get sick. Your colony can be a jack of all trades or you can develop it into producing valuables such as ores or food."
+				"Minecolonies를 사용하면 자신의 자기 유지 및 생산 식민지를 구축 할 수 있습니다.당신의 식민지 주민들은 각자 그들이 일할 때 레벨 업 기술을 가질 것입니다.그들은 음식, 도구가 필요하며 병에 걸릴 것입니다.당신의 식민지는 모든 거래의 잭이거나 광석이나 음식과 같은 귀중품을 생산하는 데 개발할 수 있습니다."
 				""
-				"The Supply Camp or Supply Ship block is the beginning of your colony. It serves as a tutorial for the Build tool and gives you a basic building to live out of and some loot. "
+				"공급 캠프 또는 공급선 블록은 식민지의 시작입니다.빌드 도구의 튜토리얼 역할을하며 살 수있는 기본 건물과 일부 전리품을 제공합니다."
 				""
-				"You must place a supply camp/ship somewhere in the world to create a colony."
+				"식민지를 만들려면 전 세계 어딘가에 공급 캠프/배를 놓아야합니다."
 				""
-				"There is no difference between the camp and ship other than what it looks like and where you're meant to build it."
+				"캠프와 선박 사이에는 모양이없는 곳과 건축의 의도가 없습니다."
 			]
 			id: "55FCEBF7CCC646EA"
 			rewards: [{
@@ -382,13 +382,13 @@
 		{
 			dependencies: ["55FCEBF7CCC646EA"]
 			description: [
-				"The &eTown Hall&r block is the start to your colony. Choose the appearance of the colony when you build the Town Hall. It can be changed later and per building. Once placed, a few villagers will spawn. If you lose these villagers, more will spawn. This can be turned off by turning off \"Kids will be born\" in the settings within the block's interface."
+				"town hall 블록은 당신의 식민지의 시작입니다.시청을 지을 때 식민지의 외관을 선택하십시오.나중에 건물 당 변경할 수 있습니다.일단 배치되면 몇몇 마을 사람들이 스폰됩니다.이 마을 사람들을 잃으면 더 많은 산란이 생길 것입니다.끄면 꺼질 수 있습니다."Kids will be born\"블록의 인터페이스 내 설정에서"
 				""
-				"You will need to make a &ebuilder's hut&r next."
+				"다음에 A builder의 오두막집을 만들어야합니다."
 				""
-				"The &eBuild Tool &rmust be used to place and plan all buildings in Minecolonies. You must have the respective building block in your inventory to place the blueprint down."
+				"build 도구must는 미니 콜로니의 모든 건물을 배치하고 계획하는 데 사용됩니다.청사진을 아래로 배치하려면 인벤토리에 각 빌딩 블록이 있어야합니다."
 				""
-				"You can also place the block down itself but you won't be able to see how it looks and you may encounter an error."
+				"블록을 자체적으로 배치 할 수도 있지만 어떻게 보이는지 알 수 없으며 오류가 발생할 수 있습니다."
 			]
 			id: "7581DCBAA177F759"
 			rewards: [{
@@ -421,11 +421,11 @@
 		{
 			dependencies: ["55FCEBF7CCC646EA"]
 			description: [
-				"Once placed, the &eBuilder's Hut&r will assign a colonist to become a builder. You must go into the interface for the builder's hut block and click \"Build\". This goes for all buildings. The builder will then request tools and the blocks required to build the builder's hut first. Make sure your builder is safe, fed, and has the blocks they need to work. Otherwise, they will stop working. "
+				"일단 배치되면, builder 's Hut은 식민지 주민에게 건축업자가되도록 할당합니다.빌더의 오두막 블록의 인터페이스로 이동하여 \를 클릭해야합니다."Build\".이것은 모든 건물에 적용됩니다.그런 다음 빌더는 빌더의 오두막을 먼저 구축하는 데 필요한 도구와 블록을 요청합니다.건축업자가 안전하고 공급되며 작업에 필요한 블록이 있는지 확인하십시오.그렇지 않으면, 그들은 일을 멈출 것입니다."
 				""
-				"Once the builder's hut is complete, you should begin work on your &eTown Hall&r. "
+				"건축업자의 오두막이 완료되면 town hall에서 작업을 시작해야합니다."
 				""
-				"The builder's hut level determines the &espeed, maximum tool level able to be used, and the maximum level&r of other buildings it can build."
+				"건축업자의 오두막 수준은 사용할 수있는 speed, 최대 도구 수준, 그리고 건축 할 수있는 다른 건물의 최대 수준 및 R을 결정합니다."
 			]
 			id: "45670CD002941D38"
 			rewards: [{
@@ -455,9 +455,9 @@
 				"45670CD002941D38"
 			]
 			description: [
-				"&eResidences&r are needed to fit your colony with more citizens. Each level of a residence allows for another citizen to live in the colony."
+				"residences은 더 많은 시민들과 함께 식민지에 맞게 필요합니다.각 수준의 거주지는 다른 시민이 식민지에 살 수있게합니다."
 				""
-				"A quick way to get more citizens is to build a &eTavern&r which will continually have potential colonists to be recruited. Check the skills for each one to ensure it's a good fit for your colony."
+				"더 많은 시민권을 얻는 빠른 방법은 A talern을 건설하는 것입니다.식민지에 적합한 지 확인하기 위해 각 기술의 기술을 확인하십시오."
 			]
 			id: "617F7B7C428A120E"
 			rewards: [{
@@ -489,9 +489,9 @@
 		}
 		{
 			description: [
-				"&eHandcrafted&r adds furniture such as &efancy beds, counters, and chairs&r. These are customizable using &esheets&r and &epillows&r of different colors."
+				"handcrafted은 fancy beds, counters 및 의자와 같은 가구를 추가합니다.이들은 다른 색상의 Sheets 및 pillows을 사용하여 사용자 정의 할 수 있습니다."
 				""
-				"The &eHammer&r allows you to change the look of blocks into different forms, such as changing a stair's type without having to place and re-place it."
+				"hammer을 사용하면 블록의 모양을 배치하고 다시 배치하지 않고 계단의 유형을 변경하는 것과 같이 블록의 모양을 다른 형태로 변경할 수 있습니다."
 			]
 			id: "6A465BF497661001"
 			rewards: [{
@@ -533,9 +533,9 @@
 				"45670CD002941D38"
 			]
 			description: [
-				"Your colonists need a place to store their items and for you to give them supplies. The &eWarehouse&r does just that. The Courier's Hut allows courier colonists to deliver and pickup supplies where needed."
+				"식민지 주민들은 물건을 보관할 곳이 필요하며 공급품을 줄 수있는 곳이 필요합니다.warehouse은 바로 그렇게합니다.택배의 오두막은 택배 식민지 주민들이 필요한 경우 용품을 제공하고 픽업 할 수 있도록합니다."
 				""
-				"The &ePostbox&r allows you to have items delivered to you while the Stash allows you to have items delivered to the warehouse. The courier will make the route automatically."
+				"postbox을 사용하면 Stash에서는 상품을 창고에 배송 할 수있는 동안 품목을 배송 할 수 있습니다.택배는 경로를 자동으로 만듭니다."
 			]
 			id: "5FC48F34204A950D"
 			rewards: [{
@@ -581,7 +581,7 @@
 				"617F7B7C428A120E"
 				"2948029B88CB3D40"
 			]
-			description: ["&eGuard's Towers &rallow for guard jobs to be assigned to colonists. They will chase any hostile mobs within range and will attempt to kill them. They require weapons and armor. Higher levels of the guard tower allows for &ebetter weapons and armor&r for them to equip."]
+			description: ["guard 's Towersallow를위한 가드 작업을 식민지 주민에게 할당 할 수 있습니다.그들은 범위 내에서 적대적인 폭도들을 쫓아 가고 그들을 죽이려고 시도 할 것입니다.그들은 무기와 갑옷이 필요합니다.가드 타워의 높은 수준은 better 무기와 갑옷을 입을 수 있습니다."]
 			id: "47AE524FED9FD6E0"
 			rewards: [{
 				auto: "enabled"
@@ -610,9 +610,9 @@
 				"45670CD002941D38"
 			]
 			description: [
-				"The &eClipboard&r allows you to see all requests made by the citizens of your colony while the Resource Scroll allows you to see the resources required by a specific builder's hut's current project. "
+				"clipboard을 사용하면 식민지 시민의 모든 요청을 볼 수 있으며 리소스 스크롤을 사용하면 특정 건축업자의 오두막 현재 프로젝트에 필요한 리소스를 볼 수 있습니다."
 				""
-				"Bind the clipboard to the town hall block and the resource scroll to a builder's hut block by &eshift right clicking&r with it in hand."
+				"클립 보드를 타운 홀 블록에 바인딩하고 자원 스크롤을 빌더의 오두막집 블록에 Shift 오른쪽 클릭과 함께 묶습니다."
 			]
 			id: "2948029B88CB3D40"
 			rewards: [{
@@ -653,13 +653,13 @@
 				"2948029B88CB3D40"
 			]
 			description: [
-				"The &eMine&r allows miners to gather resources. As they mine, they have a chance to mine an ore. Higher levels of the building allow for them to &emine deeper and with better tools&r."
+				"mine은 광부가 자원을 모을 수 있도록합니다.그들이 내 것처럼, 그들은 광석을 채굴 할 기회가 있습니다.더 높은 수준의 건물은 더 깊고 더 나은 도구를 사용하여을 더 깊이 제공 할 수 있습니다."
 				""
-				"The &eForester's Hut&r allows colonists to chop down trees and replant them in a set area. Higher levels allow &ebigger trees&r to be cut down and allow for&e better tools&r to be used."
+				"forester의 오두막집은 식민지 주민들이 나무를 자르고 정해진 지역에서 그것들을 재배 할 수 있도록합니다.더 높은 레벨은 bigger trees을 잘라 내고 더 나은 도구를 사용할 수있게합니다."
 				""
-				"Use the &eForester's Tool &rto designate the areas that trees can be cut down. It can be obtained from the hut's GUI."
+				"forester의 도구 및 RTO를 사용하여 나무를 잘라낼 수있는 영역을 지정하십시오.오두막의 GUI에서 얻을 수 있습니다."
 				""
-				"The &eSimple Quarry and Medium Quary&r will dig out any blocks it can within the area designated and store them."
+				"simple 채석장 및 중간 쿼리은 지정된 영역 내에서 가능한 블록을 파고 저장합니다."
 			]
 			id: "0C6D1DDE3762303B"
 			rewards: [{
@@ -700,7 +700,7 @@
 				"617F7B7C428A120E"
 				"2948029B88CB3D40"
 			]
-			description: ["&eEach&r of these allows for their respective animal type to be &ebred and slaughtered&r. You will need to provide the animals by leading them into the building. Higher levels allow for &emore animals&r to be housed."]
+			description: ["이들 중은 각각의 동물 유형이 bred and slaughted을 허용합니다.동물을 건물로 이끌어서 제공해야합니다.더 높은 수준은 more 동물과 R을 허용합니다."]
 			id: "37BE61069D7D3893"
 			rewards: [{
 				auto: "enabled"
@@ -756,11 +756,11 @@
 				"2948029B88CB3D40"
 			]
 			description: [
-				"The &eRestaurant&r is where your colonists will go to eat if they don't have food in their inventories. The restaurant must have recipes assigned to them, such as assigning a recipe to cook all raw porkchops. Level 3 building allows for an &eassistant chef&r to be hired."
+				"restaurant은 식민지 주민들이 재고에 음식이 없으면 먹을 곳입니다.레스토랑에는 모든 생 돼지를 요리하는 레시피를 할당하는 것과 같이 레시피가 할당되어 있어야합니다.레벨 3 건물을 통해 assistant chef을 고용 할 수 있습니다."
 				""
-				"&eFarms and Fishing Huts&r allow for a steady rate of food to be delivered. Higher levels allow for &efaster production and less chance&r for junk to be fished up. Farmers require &efields&r to be placed which dictates where they will cultivate."
+				"farms and 낚시 오두막집은 꾸준한 음식을 배달 할 수 있습니다.더 높은 수준은 faster 생산을 허용하고 정크를 낚아질 수있는 기회가 적습니다.농민들은 fields을 요구하여 경작 할 위치를 지시합니다."
 				""
-				"The &eBakery&r is where special breads are made that have &ebuffs&r, such as sweet bread that gives a speed boost and removes poison. Higher levels &eunlock&r more recipes."
+				"Bakery은 속도를 높이고 독을 제거하는 달콤한 빵과 같은 특수 빵이 만들어지는 곳입니다.더 높은 레벨 및 내선 및 더 많은 레시피."
 			]
 			id: "490416231A4CAE1A"
 			rewards: [{
@@ -811,7 +811,7 @@
 				"617F7B7C428A120E"
 				"2948029B88CB3D40"
 			]
-			description: ["The &eEnchanter’s Tower&r is where the Enchanter will create enchanted books, as long as they have Ancient Tomes. The Enchanter will &ecollect XP from other workers &rto create the enchanted books. The higher their&e Mana level&r, the more XP they will collect per trip. They will &enot apply&r the enchanted books to tools and armor, you must do that yourself."]
+			description: ["enchanter 's Tower은 요술사가 고대의 주제를 가지고있는 한 마법의 책을 만들 것입니다.Enchanter Will collect XP는 다른 노동자들로부터 XP를, 마법에 걸린 책을 만듭니다.그들의  마나 레벨이 높을수록 여행 당 XP가 더 많이 수집됩니다.그들은 마법의 책을 도구와 갑옷에 적용 할 것입니다."]
 			id: "3C119488F1962FAF"
 			rewards: [{
 				auto: "enabled"
@@ -841,7 +841,7 @@
 				"0C6D1DDE3762303B"
 				"47AE524FED9FD6E0"
 			]
-			description: ["The &eUniversity&r allows you to unlock various &eperks and bonuses&r that will either &ebuff&r your colonists, &eunlock&r new buildings, or new &erecipes.&r These may take a long time but are necessary to gain access to the full benefits of your colony."]
+			description: ["university을 사용하면 식민지 주민, 그리고 새로운 건물 또는 새로운 건물 및 새로운 건물을 ebuff 할 수있는 다양한 perks and bonuses을 잠금 해제 할 수 있습니다."]
 			id: "7544A85438D5BE64"
 			rewards: [{
 				auto: "enabled"
@@ -866,11 +866,11 @@
 		{
 			dependencies: ["7544A85438D5BE64"]
 			description: [
-				"The &eCombat Academy&r allows your soldiers to train in their combat skills."
+				"combat Academy은 군인들이 전투 기술을 훈련시킬 수 있도록합니다."
 				""
-				"The &eArchery&r building employs archers to be added to your colony's defense."
+				"archery Building은 아 궁수를 사용하여 식민지의 방어에 추가됩니다."
 				""
-				"The &eBarracks&r houses and employs soldiers and increases the maximum number of guard's towers that are able to be attached to it."
+				"barracks 주택은 군인들을 고용하고 고용하고 그것을 부착 할 수있는 최대 가드 탑 수를 늘립니다."
 			]
 			id: "0201340BEB27CC9D"
 			rewards: [{
@@ -908,9 +908,9 @@
 		{
 			dependencies: ["7544A85438D5BE64"]
 			description: [
-				"Each of these buildings use the &ebasic resources&r your colonists gather to &eproduce&r advanced materials such as building blocks and minerals."
+				"이 건물들 각각은 당신의 식민지 주민들이 빌딩 블록 및 미네랄과 같은 고급 재료에 모이는 basic 자원을 사용합니다."
 				""
-				"The &eNether Mine &rallows colonists to &emine&r nether exclusive ores and resources. While they create a working nether portal, the colonists &edon't actually go&r into the nether. Higher levels allow for &ebetter and more types of resources&r to be gathered."
+				"nether mineallows 식민지 주민들은 독점 광석과 자원을 emine rallows to eMine.그들이 작동하는 황천 포털을 만들지 만 식민지 주민들은 실제로 황천으로 들어 가지 않습니다.더 높은 수준은 better와 더 많은 유형의 자원을 수집 할 수있게합니다."
 			]
 			id: "227F20B0FA192A36"
 			rewards: [{
@@ -978,13 +978,13 @@
 		{
 			dependencies: ["7544A85438D5BE64"]
 			description: [
-				"The Hospital allows your colonists to heal themselves from sickness without your intervention. "
+				"병원은 식민지 주민들이 당신의 개입없이 질병에서 스스로를 치유 할 수있게합니다."
 				""
-				"The School allows your colonists to train their skills and be more efficient workers."
+				"학교는 식민지 주민들이 자신의 기술을 훈련시키고보다 효율적인 근로자가 될 수 있도록 허용합니다."
 				""
-				"The Library trains your colonists' intelligence which affects all activities they do while they are assigned to it."
+				"도서관은 식민지 주민의 지능을 훈련시켜 배정되는 동안 그들이하는 모든 활동에 영향을 미칩니다."
 				""
-				"The Graveyard is where your colonists will be buried when dead. The only benefit to the graveyard is the Undertaker, the site's worker, will go to the Mystical Site if built and attempt to resurrect dead colonists that are buried."
+				"묘지는 식민지 주민이 죽을 때 묻히는 곳입니다.묘지의 유일한 장점은 부지의 노동자 인 Undertaker가 건설 된 경우 신비로운 장소로 가서 묻힌 죽은 식민지 주민을 부활 시키려고 시도하는 것입니다."
 			]
 			id: "70705AF8CCB36CC4"
 			rewards: [{
@@ -1027,17 +1027,17 @@
 		{
 			dependencies: ["7544A85438D5BE64"]
 			description: [
-				"The &eFletcher's Hut&r will produce arrows and any item that uses wool or strings as their primary component such as bows and fishing poles."
+				"fletcher의 오두막집은 화살표와 양모 또는 줄을 활 및 낚시 용 극과 같은 주요 구성 요소로 사용하는 모든 품목을 생성합니다."
 				""
-				"The &eMechanic&r will produce redstone items such as minecarts and clocks. They can also produce special items such as gates and multi-pistons which are not available elsewhere."
+				"mechanic은 Minecarts 및 Clocks와 같은 Redstone 품목을 생산합니다.또한 다른 곳에서는 사용할 수없는 게이트 및 멀티 피스톤과 같은 특수 아이템을 생산할 수도 있습니다."
 				""
-				"The &eConcrete Mixer&r will produce concrete ready to be used without having to wait for the powder to dry."
+				"concrete 믹서은 분말이 건조 될 때까지 기다릴 필요없이 콘크리트를 사용할 수 있습니다."
 				""
-				"The &eBlacksmith&r can make any vanilla tool, armor, or shield."
+				"blacksmith은 바닐라 도구, 갑옷 또는 방패를 만들 수 있습니다."
 				""
-				"The &eDyer's Hut &rwill produce dyes and dye items."
+				"dyer 's Hutwill은 염료와 염료 품목을 생산합니다."
 				""
-				"Each level of these buildings determine the &eamount&r of recipes they can remember."
+				"이 건물의 각 레벨은 그들이 기억할 수있는 레시피의을 결정합니다."
 			]
 			id: "05CFE1DAC39C5242"
 			rewards: [{
@@ -1085,9 +1085,9 @@
 		{
 			dependencies: ["7544A85438D5BE64"]
 			description: [
-				"The &eMystical Site&r increases the happiness of all colonists just by existing. The graveyard worker will come here to pray and attempt to &eresurrect&r a dead colonist and raise their own mana level."
+				"mystical site은 기존에 의해 모든 식민지 주민의 행복을 증가시킵니다.묘지 노동자는 여기로 와서기도하고 죽은 식민지 주민을 멸망시키고 자신의 마나 수준을 높이기 위해 노력할 것입니다."
 				""
-				"The &eAlchemist Tower&r can &ebrew&r potions and &eharvest&r netherwart and mistletoe. &eMistletoe&r is used to enhance the potions they create."
+				"alchemist tower can brew 물약 및 harvest netherwart and mistletoe.mistletoe은 그들이 만든 물약을 향상시키는 데 사용됩니다."
 			]
 			id: "25F0F167BCC9E1FE"
 			rewards: [{
@@ -1429,11 +1429,11 @@
 		}
 		{
 			description: [
-				"&eMacaw's Doors &radds numerous door variations and themes to craft."
+				"macaw 's Doorsadds 수많은 문 변형과 주제."
 				""
-				"&eMacaw's Bridges&r adds bridges and bridge variants."
+				"macaw의 Bridges은 다리와 다리 변형을 추가합니다."
 				""
-				"&eMacaw's Lights and Lamps&r adds numerous types of lamps and light sources."
+				"macaw의 조명과 램프에는 수많은 유형의 램프와 광원이 추가됩니다."
 			]
 			id: "3C9F2AB674921503"
 			rewards: [{
@@ -1469,7 +1469,7 @@
 			y: 0.0d
 		}
 		{
-			description: ["&eFloral Enchantment&r adds flower bushes with which you can obtain the &evines&r of each flower. Flower vines are obtained from &ebushes.&r You can get &emossy cobblestone&r from each flower to decorate. It also adds some other floral themed &egear&r and decorations."]
+			description: ["floral enchantment은 각 꽃의 vines을 얻을 수있는 꽃 덤불을 추가합니다.꽃 덩굴은 bushes에서 얻을 수 있습니다. 각 꽃에서 장식 할 수 있습니다.또한 다른 꽃 테마 gear 및 장식을 추가합니다."]
 			id: "32823645E2FE4F43"
 			rewards: [{
 				auto: "enabled"

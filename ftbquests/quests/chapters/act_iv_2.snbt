@@ -21,9 +21,9 @@
 				"30B56119C4EA7398"
 			]
 			description: [
-				"Your next task is to investigate &eThe End&r, and to slay the &eEnder Dragon&r. To get there, locate a &eStronghold&r, where you might find an &eEnd Portal Frame&r. You can activate the portal by slotting in &eEye of Enders&r into the frame."
+				"다음 과제는 Ende을 조사하고 Ende를 조사하고 ender dragon을 죽이는 것입니다.거기에 도착하려면 A end Portal Frame을 찾을 수있는 A stronghold을 찾으십시오.엔더의 eye를 프레임으로 슬롯하여 포털을 활성화 할 수 있습니다."
 				""
-				"&eRequires ALL dependencies to be completed.&r"
+				"REQUIRES 완료 할 모든 종속성."
 			]
 			id: "75454F0A3C4C3596"
 			rewards: [{
@@ -54,7 +54,7 @@
 				"30B56119C4EA7398"
 				"09CFBF8766DA4706"
 			]
-			description: ["This \"quest\" consumes the coin and lets you select a reward from the list."]
+			description: ["이것 \"quest\"동전을 소비하고 목록에서 보상을 선택할 수 있습니다."]
 			hide_dependency_lines: true
 			hide_details_until_startable: true
 			icon: "mmorpg:skill_gems/aura/str"
@@ -83,7 +83,7 @@
 				"30B56119C4EA7398"
 				"09CFBF8766DA4706"
 			]
-			description: ["This \"quest\" consumes the coin and lets you select a reward from the list."]
+			description: ["이것 \"quest\"동전을 소비하고 목록에서 보상을 선택할 수 있습니다."]
 			hide_dependency_lines: true
 			hide_details_until_startable: true
 			icon: "mmorpg:skill_gems/support/str"
@@ -109,11 +109,11 @@
 		{
 			dependencies: ["0998037F5701A2D7"]
 			description: [
-				"You've found the Gatekeeper... He's willing to give you information, but for a price."
+				"당신은 게이트 키퍼를 찾았습니다."
 				""
-				"You were able to learn from him (for free) that he's familiar with 2 alternate dimensions: the &eEverbright&r and the &eEverdawn&r. According to the Gatekeeper, it's possible to access these dimensions from the Overworld!"
+				"당신은 그에게서 그에게서 (무료), 그가 everbright과 everdawn의 2 가지 대체 차원에 익숙하다는 것을 배울 수있었습니다.GateKeeper에 따르면, 오버 월드에서 이러한 차원에 액세스 할 수 있습니다!"
 				""
-				"It also looks like he has some sort of &elighter for sale&r. Apparently it's needed to access the dimensions. Maybe it's fine to humour him and buy the lighter, but you'll need more information than that. Perhaps &esnooping around the house&r might prove fruitful..."
+				"또한 그는 일종의 엘라이터를 판매하는 것처럼 보입니다.분명히 치수에 액세스해야합니다.어쩌면 그를 유머하고 라이터를 사는 것은 괜찮지 만 그보다 더 많은 정보가 필요합니다.아마도 집 주변의 에스 노프은 유익 할 수 있습니다 ..."
 			]
 			id: "01B3ED0D457F7A7C"
 			rewards: [
@@ -155,11 +155,11 @@
 		{
 			dependencies: ["01B3ED0D457F7A7C"]
 			description: [
-				"&cOnly Requires 1 task to complete.&r"
+				"only 완료하려면 1 개의 작업이 필요합니다."
 				""
-				"Instead of relying on the portals that spawn in the &eGatekeeper's House&r, you can craft them yourself."
+				"gatekeeper의 집에서 스폰 된 포털에 의존하는 대신 직접 만들 수 있습니다."
 				""
-				"You can even buy the blocks from the &eTrading Terminal&r!"
+				"trading terminal에서 블록을 구입할 수도 있습니다!"
 			]
 			id: "467EF949DCDD7863"
 			min_required_tasks: 1
@@ -194,7 +194,7 @@
 		}
 		{
 			dependencies: ["10ABAF144ABC131E"]
-			description: ["BRRrrr, it is really cold in this dimension... But you made it! The &eEverbright&r is a dimension in perpetual frost. Now would be a good time to refer to the &9Blue Journal&r..."]
+			description: ["Brrrrr,이 차원에서는 정말 춥지 만 ... 당신은 그것을 만들었습니다!everbright은 영원한 서리의 차원입니다.이제 blue Journal을 언급하기에 좋은시기가 될 것입니다."]
 			id: "44D0530C2718FC69"
 			rewards: [
 				{
@@ -235,7 +235,7 @@
 		}
 		{
 			dependencies: ["10ABAF144ABC131E"]
-			description: ["Yowza, it is really warm and humid in this dimension... But you made it! The &eEverdawn&r is a dimension filled with creature mutations and high heat. Now would be a good time to refer to the &9Blue Journal&r..."]
+			description: ["Yowza, 그것은이 차원에서 정말 따뜻하고 습합니다 ... 그러나 당신은 그것을 만들었습니다!everdawn은 생물 돌연변이와 고열로 가득 찬 차원입니다.이제 blue Journal을 언급하기에 좋은시기가 될 것입니다."]
 			id: "260297A19CCA9015"
 			rewards: [
 				{
@@ -276,7 +276,7 @@
 		}
 		{
 			dependencies: ["01B3ED0D457F7A7C"]
-			description: ["The Gatekeeper is also keen on giving away his &ejournal&r. It looks really old and musty, but according to the keeper, it contains a lot of &einformation&r on the dimensions."]
+			description: ["게이트 키퍼는 또한 자신의 journal을 포기하는 데 열중하고 있습니다.정말 오래되고 곰팡이처럼 보이지만 골키퍼에 따르면 차원에 대한 많은 정보와 r을 포함합니다."]
 			id: "10ABAF144ABC131E"
 			rewards: [
 				{
@@ -311,20 +311,20 @@
 		{
 			dependencies: ["44D0530C2718FC69"]
 			description: [
-				"To access the Everbright's &eNature Dungeon,&r you will first need to find the dimension's &eBlinding Dungeon&r... According to the Gatekeeper, you'll be able to &efind the Summoner&r in the Everbright's Blinding Dungeon."
+				"Everbright 's nature Dungeon에 액세스하려면 먼저 Dimension's blinding Dungeon을 찾아야합니다 ... GateKeeper에 따르면 Everbright의 눈부신 던전에서 소환사을 찾을 수 있습니다."
 				""
-				"Be careful with the Summoner, as the Summoner fights with lightning and energy attacks, and has golems to guard themselves! According to the Gatekeeper, the Summoner becomes &estronger in the presence of more enemies&r (players)."
+				"소환사가 번개와 에너지 공격으로 싸우고 스스로를 지키는 골렘이 있기 때문에 소환사에주의하십시오!게이트 키퍼에 따르면, 소환사는 더 많은 적들과 r (플레이어)이있을 때 stronger가됩니다."
 				""
-				"Defeat the Summoner, and you will be able to access the Nature Dungeon!"
+				"소환사를 물리 치면 자연 던전에 접근 할 수 있습니다!"
 				""
-				"You can also &eresummon&r the Summoner, by using the &eEthereal Arc&r obtained from it on a &eBlinding Keystone (Everbright)&r."
+				"A blinding keystone (Everbright)에서 얻은 ethereal arc을 사용하여 소환사 및 r eResummon."
 				""
-				"&cThe Summoner always spawns at level 45 and at Common rarity.&r"
+				" 소환사는 항상 45 레벨과 공통의 희귀 성에서 스폰됩니다."
 				""
-				"The Summoner Has:"
-				"&b+50% Physical Damage converted to Lightning Damage&r"
-				"&b+100% Magic Skill Damage Received&r"
-				"&bProjectile Immunity&r"
+				"소환사는 다음과 같습니다."
+				"+50% 신체적 손상이 번개 손상으로 전환되었습니다"
+				"+100% 마법 기술 손상을 받았습니다"
+				"projectile 면역 및 r"
 			]
 			icon: {
 				Count: 1b
@@ -389,20 +389,20 @@
 		{
 			dependencies: ["260297A19CCA9015"]
 			description: [
-				"To access the Everdawn's &ePoison Dungeon,&r you will first need to find the dimension's &eBlinding Dungeon&r... According to the Gatekeeper, you'll be able to &efind the Alchemist&r in the Everdawn's Blinding Dungeon."
+				"Everdawn 's poison Dungeon에 액세스하려면 먼저 Dimension's blinding Dungeon을 찾아야합니다 ... Gatekeeper에 따르면 Everdawn의 블라인드 던전에서 Alchemist을 징수 할 수 있습니다."
 				""
-				"Watch out for potions and physical constructs as you fight the Alchemist. A lot of the Alchemist's attacks are telegraphed, but missing these cues may cost you an arm! According to the Gatekeeper, the Alchemist becomes &estronger in the presence of more enemies&r (players)."
+				"연금술사와 싸울 때 물약과 물리적 구조를 조심하십시오.연금술사의 많은 공격이 전보에 빠졌지만이 신호를 놓치면 팔이 필요할 수 있습니다!게이트 키퍼에 따르면, 연금술사는 더 많은 적들과 r (플레이어)이있을 때 stronger가됩니다."
 				""
-				"Defeat the Alchemist, and you will be able to access the Poison Dungeon!"
+				"연금술사를 물리 치면 독 던전에 접근 할 수 있습니다!"
 				""
-				"You can also &eresummon&r the Alchemist by using the &eDusk Arc&r obtained from it on a &eBlinding Keystone (Everdawn)&r."
+				"A blinding keystone (Everdawn)에서 얻은 dusk arc을 사용하여 연금술사를 사용할 수 있습니다."
 				""
-				"&cThe Alchemist always spawns at level 45 and at Common rarity.&r"
+				"연금술사는 항상 45 레벨과 공통의 희귀 성에서 생성됩니다."
 				""
-				"The Alchemist Has:"
-				"&b+50% Physical Damage converted to Chaos Damage&r"
-				"&b+100% Magic Skill Damage Received&r"
-				"&bReflects Projectiles&r"
+				"연금술사는 다음과 같습니다."
+				"+50% 물리적 손상 혼돈 손상"
+				"+100% 마법 기술 손상을 받았습니다"
+				"reflects 발사체"
 			]
 			icon: "minecolonies:magicpotion"
 			id: "63DA191A8533F1AE"
@@ -455,23 +455,23 @@
 		{
 			dependencies: ["5F455D8A504B112D"]
 			description: [
-				"You've defeated the Summoner, and in their dying moments, they tell you about the Nature Dungeon."
+				"당신은 소환사를 물리 쳤고, 죽어가는 순간에 그들은 자연 던전에 대해 이야기합니다."
 				""
-				"The Nature Dungeon is a &emassive green labyrinth&r consisting of &e4 floors.&r Each floor will contain &e1 of 4 keys&r and a staircase leading up to the next floor."
+				"Nature Dungeon은 4 층으로 구성된 A massive Green Labyrinth입니다."
 				""
-				"Resting at the top of the floor you will find the &eStarlit Crusher&r. This slow-moving tree packs a punch, but opportunities to stun the tree may arise if you're using a &ospear&r. According to the Gatekeeper, the Starlit Crusher becomes &estronger in the presence of more enemies&r (players)."
+				"바닥 꼭대기에서 쉬면 starlit 크러셔을 찾을 수 있습니다.이 느리게 움직이는 나무는 펀치를 포장하지만 A spear을 사용하는 경우 나무를 기절시킬 수있는 기회가 발생할 수 있습니다.게이트 키퍼에 따르면, 스타 라이트 크러셔는 더 많은 적들과 R (플레이어)이있을 때 stronger가됩니다."
 				""
-				"Should you find a Nature Dungeon that's &ealready been cleared&r, you can go back to the &eGatekeeper&r and &epurchase the required keys&r."
+				"already가 지워진 자연 던전을 찾으면 gatekeeper로 돌아가서 필요한 키를 구매할 수 있습니다."
 				""
-				"You can also &eresummon&r the Starlit Crusher by using the &eNature Arc&r obtained from it on a &eNature Keystone&r."
+				"A nature keystone에서 얻은 nature arc을 사용하여 Starlit 크러셔도 eresummon."
 				""
-				"&cThe Starlit Crusher always spawns at level 55 and at Common rarity.&r"
+				" 스타 라이트 크러셔"
 				""
-				"The Starlit Crusher Has:"
-				"&b+50% Physical Damage converted to Lightning Damage&r"
-				"&b+33% Electrify Chance&r"
-				"&b+100% Magic Skill Damage Received&r"
-				"&bProjectile Immunity&r"
+				"스타 라이트 크러셔는 다음과 같습니다."
+				"+50% 신체적 손상이 번개 손상으로 전환되었습니다"
+				"+33% Electrify Chance"
+				"+100% 마법 기술 손상을 받았습니다"
+				"projectile 면역 및 r"
 			]
 			icon: "blue_skies:nature_key"
 			id: "30B56119C4EA7398"
@@ -550,23 +550,23 @@
 		{
 			dependencies: ["63DA191A8533F1AE"]
 			description: [
-				"You've defeated the Alchemist, and in their dying moments, they tell you about the Poison Dungeon."
+				"당신은 연금술사를 물리 쳤고, 죽어가는 순간에 그들은 독 던전에 대해 이야기합니다."
 				""
-				"The Poison Dungeon is a &elarge underground maze&r consisting of &e4 floors.&r Each floor will contain &e1 of 4 keys&r and a staircase leading down to the next floor. You will find a &elarge, hollowed maple tree covered in cobwebs on the surface&r."
+				"독 던전은 4 층으로 구성된 A large 지하 Maze입니다.표면에 거미줄로 덮인 A large, 중공 메이플 트리를 찾을 수 있습니다."
 				""
-				"Lurking in the lowest depths, you will find the &eArachnarch&r in her lair. This venomous foe lunges at targets and sprays poison from the ceiling above, but opportunities to stun the spider may arise if you're using a &oshield&r. According to the Gatekeeper, the Arachnarch becomes &estronger in the presence of more enemies&r (players)."
+				"가장 낮은 깊이에 숨어 가면서 그녀의 은신처에서 arachnarch을 찾을 수 있습니다.위의 천장에서 대상과 스프레이 독에 대한이 악의적 인 적의 허풍이지만, A shield을 사용하는 경우 거미를 기절시킬 수있는 기회가 발생할 수 있습니다.게이트 키퍼에 따르면, Arachnarch는 더 많은 적 (플레이어)이있을 때 stronger가됩니다."
 				""
-				"Should you find a Poison Dungeon that's &ealready been cleared&r, you can go back to the &eGatekeeper&r and &epurchase the required keys&r."
+				"already가 지워진 독 던전을 찾으면 gatekeeper로 돌아가서 필요한 키를 구매할 수 있습니다."
 				""
-				"You can also &eresummon&r the Arachnarch by using the &ePoisonous Arc&r obtained from it on a &ePoison Keystone&r."
+				"A poison Keystone에서 얻은 poisonous arc을 사용하여 Arachnarch를 resummon."
 				""
-				"&cThe Arachnarch always spawns at level 55 and at Common rarity.&r"
+				"the Arachnarch는 항상 55 레벨과 일반적인 희귀 성에서 스폰됩니다."
 				""
-				"The Arachnarch Has:"
-				"&b+50% Physical Damage converted to Chaos Damage&r"
-				"&b+33% Poison Chance&r"
-				"&b+100% Magic Skill Damage Received&r"
-				"&bProjectile Immunity&r"
+				"arachnarch는 다음과 같습니다."
+				"+50% 물리적 손상 혼돈 손상"
+				"+33% 독 기회"
+				"+100% 마법 기술 손상을 받았습니다"
+				"projectile 면역 및 r"
 			]
 			icon: "blue_skies:poison_key"
 			id: "09CFBF8766DA4706"
@@ -643,11 +643,11 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"&cOnly Requires 1 task to complete.&r"
+				"only 완료하려면 1 개의 작업이 필요합니다."
 				""
-				"The Gatekeeper did mention there would be civilization in the Everbright and Everdawn. You'll just need to find it."
+				"게이트 키퍼는 Everbright와 Everdawn에 문명이있을 것이라고 언급했습니다.당신은 그것을 찾기 만하면됩니다."
 				""
-				"&eRequires 1 dependency to be completed.&r"
+				"REQUIRES 1 의존성 완료."
 			]
 			icon: "minecolonies:supplycampdeployer"
 			id: "5B4E23F4CD32950F"
@@ -729,9 +729,9 @@
 		{
 			dependencies: ["5B4E23F4CD32950F"]
 			description: [
-				"Apparently if you find a &eNightwatcher&r, they can provide you with a &eBag of Spoils&r which will let you &epickpocket villagers&r... Seems like a criminal activity that would be frowned upon by them..."
+				"분명히 당신이 nightwatcher을 찾으면, 그들은 당신에게 당신에게 당신에게 pickpocket 마을 사람들을 허용 할 수있게 해줄 수있는 전리품을 제공 할 수 있습니다 ..."
 				""
-				"That is, if they catch you."
+				"그들이 당신을 잡는다면."
 			]
 			id: "08D0C45FA283D50A"
 			rewards: [
@@ -781,9 +781,9 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"These dimensions seem to have plenty of natural resources. It might be worthwhile to harvest some to craft with."
+				"이러한 차원에는 많은 천연 자원이있는 것 같습니다.일부를 수확하는 것이 가치가있을 수 있습니다."
 				""
-				"&eRequires 1 dependency to be completed.&r"
+				"REQUIRES 1 의존성 완료."
 			]
 			id: "1E4735F6982A43ED"
 			rewards: [
@@ -843,7 +843,7 @@
 		}
 		{
 			dependencies: ["1E4735F6982A43ED"]
-			description: ["According to the &9Blue Book&r, &5Falsite&r can be found in the &eEverbright&r and possesses a &estrengthening property&r. &6Horizonite&r can be found in the &eEverdawn&r and contains a &ehigh amount of heat&r."]
+			description: ["blue book, falsite에 따르면 everbright에서 찾을 수 있으며 strengengening 속성. horizonite은 everdawn에서 찾을 수 있으며 A high 양의 열을 포함합니다."]
 			id: "1FC3745ADFF992F2"
 			rewards: [
 				{
@@ -904,9 +904,9 @@
 		{
 			dependencies: ["44D0530C2718FC69"]
 			description: [
-				"You've noticed sticks of different properties while exploring in the Everbright. Perhaps it's even possible to use these sticks to craft spears."
+				"Everbright에서 탐험하는 동안 다른 속성의 막대기를 발견했습니다.아마도이 스틱을 공예 스피어에 사용하는 것도 가능합니다."
 				""
-				"It might be a good idea to refer to the &9Blue Journal&r for the different types of sticks. I'm sure the Gatekeeper noticed this too."
+				"다양한 유형의 스틱에 대해 Blue Journal을 참조하는 것이 좋습니다.게이트 키퍼도 이것을 알아 차렸을 것입니다."
 			]
 			id: "74FCB46359C566CA"
 			rewards: [
@@ -947,9 +947,9 @@
 		{
 			dependencies: ["260297A19CCA9015"]
 			description: [
-				"You've noticed sticks of different properties while exploring in the Everdawn. Perhaps it's even possible to use these sticks to craft spears."
+				"Everdawn에서 탐험하는 동안 다른 속성의 막대기를 발견했습니다.아마도이 스틱을 공예 스피어에 사용하는 것도 가능합니다."
 				""
-				"It might be a good idea to refer to the &9Blue Journal&r for the different types of sticks. I'm sure the Gatekeeper noticed this too."
+				"다양한 유형의 스틱에 대해 Blue Journal을 참조하는 것이 좋습니다.게이트 키퍼도 이것을 알아 차렸을 것입니다."
 			]
 			id: "07B675A69ECAD9D0"
 			rewards: [
@@ -990,9 +990,9 @@
 		{
 			dependencies: ["44D0530C2718FC69"]
 			description: [
-				"The Everbright seems to be home to many foreign creatures. You can't really tell if they're mutations or natively weird."
+				"Everbright는 많은 외국 생물의 본거지 인 것 같습니다.당신은 그들이 돌연변이인지 기본적으로 이상한지를 실제로 알 수 없습니다."
 				""
-				"Creatures here seem to be covered in ice..."
+				"여기의 생물은 얼음으로 덮여있는 것 같습니다 ..."
 			]
 			icon: "blue_skies:frose"
 			id: "61FABF4C4DB118C8"
@@ -1091,9 +1091,9 @@
 		{
 			dependencies: ["260297A19CCA9015"]
 			description: [
-				"The Everdawn seems to be home to many foreign creatures. You can't really tell if they're mutations or natively weird."
+				"Everdawn은 많은 외국 생물의 본거지 인 것 같습니다.당신은 그들이 돌연변이인지 기본적으로 이상한지를 실제로 알 수 없습니다."
 				""
-				"Here, they seem to be similar to insects you'd find in the Overworld."
+				"여기서 그들은 오버 월드에서 찾을 수있는 곤충과 비슷한 것 같습니다."
 			]
 			icon: {
 				Count: 1b
@@ -1207,7 +1207,7 @@
 				"63DA191A8533F1AE"
 				"30B56119C4EA7398"
 			]
-			description: ["&eComplete&r all of the &equests&r in Act IV to complete this achievement. Then show it off with your new hat!"]
+			description: ["complete Act IV의 모든 quests 은이 업적을 완료합니다.그런 다음 새 모자로 보여주세요!"]
 			hide_dependency_lines: true
 			icon: "simplehats:questbook"
 			id: "713453058246129A"
@@ -1238,9 +1238,9 @@
 		{
 			dependencies: ["10ABAF144ABC131E"]
 			description: [
-				"In the Everbright and Everdawn dimensions, you will find &enew tameables and new potential mounts&r."
+				"Everbright와 Everdawn 차원에서는 Tameables와 새로운 잠재적 인 마운트를 찾을 수 있습니다."
 				""
-				"It might be fun to find a &eReindeer&r, &eCamel&r, or even a &eCosmic Fox&r."
+				"A REINDEER, CAMEL 또는 A COSMIC FOX을 찾는 것이 재미있을 수 있습니다."
 			]
 			icon: "minecraft:paper"
 			id: "5145DB1D393B6681"
@@ -1271,9 +1271,9 @@
 		{
 			dependencies: ["5F455D8A504B112D"]
 			description: [
-				"The &eSnowcap Oven&r can utilize the special hot and cold properites of the &eSnowcap Mushroom as a fuel source&r."
+				"Snowcap 오븐 R은 Snowcap 버섯의 특수 핫 및 차가운 적절한 사람들을 연료 공급원으로 활용할 수 있습니다."
 				""
-				"Cooking with Snowcap Mushrooms will result in a &ecold byproduct&r that may be used elsewhere."
+				"스노우 캡 버섯으로 요리하면 다른 곳에서 사용할 수있는 A cold Byproduct이 생성됩니다."
 			]
 			id: "517A65DD1CDCA89F"
 			rewards: [{
@@ -1299,7 +1299,7 @@
 		}
 		{
 			dependencies: ["63DA191A8533F1AE"]
-			description: ["The &eHorizonite Forge&r can &esmelt things without any fuel&r due to the natural heat of the block. It does have a &erecharge time&r, but the forge can be recharged quicker using anything made of Horizonite or Sunstone."]
+			description: ["horizonite forge은 블록의 자연 가열로 인해 연료를 제공하지 않고 물건을 제출할 수 있습니다.A recharge Time은 있지만 호라이조나이트 또는 Sunstone으로 만든 것을 사용하여 더 빠르게 재충전 할 수 있습니다."]
 			id: "6954FEF58C12CA7F"
 			rewards: [{
 				auto: "enabled"

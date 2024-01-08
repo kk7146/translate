@@ -1002,9 +1002,9 @@
 		}
 		{
 			description: [
-				"&eAquaculture&r heavily expands fishing by allowing you to catch many &enew fish, treasures&r, and customize new &etiered fishing rods&r with the &eTackle Box.&r"
+				"aquaculture 많은 new fish, treasures을 잡을 수있게함으로써 낚시를 크게 확장하고 tackle box와 함께 새로운 tiered 낚시 막대를 맞춤화 할 수 있습니다."
 				""
-				"Fish up a &eNeptune's Bounty&r for a chance to get &eNeptunium Ingots&r which are can create powerful &eequipment.&r"
+				"강력한 quipment를 만들 수있는 Neptunium ingot S을 얻을 수있는 기회를 얻기 위해 Neptune의 현상금을 뿌립니다."
 			]
 			id: "19527088738A2A88"
 			rewards: [{

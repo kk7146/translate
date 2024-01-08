@@ -12,7 +12,7 @@
 		{
 			can_repeat: true
 			dependencies: ["55F9F418C4CA3B3A"]
-			description: ["This \"quest\" consumes the coin and lets you select a reward from the list."]
+			description: ["이것 \"quest\"동전을 소비하고 목록에서 보상을 선택할 수 있습니다."]
 			hide_dependency_lines: true
 			hide_details_until_startable: true
 			icon: "mmorpg:skill_gems/aura/int"
@@ -37,7 +37,7 @@
 		}
 		{
 			dependencies: ["2AFB98683E249B7D"]
-			description: ["It seems like &eRotlings&r are not the only rotten creatures. There are many different breeds of them."]
+			description: ["rotlings은 유일한 썩은 생물이 아닙니다.그것들에는 여러 가지 품종이 있습니다."]
 			icon: "minecraft:rotten_flesh"
 			id: "5E98541EEB25174A"
 			rewards: [
@@ -82,7 +82,7 @@
 		}
 		{
 			dependencies: ["18D44E8B9226FB02"]
-			description: ["You were told this dimension was dank and moist, but you did not expect it to be rotting. Kill the pesky &eRotlings&r that keep attacking you, they seem to be the cause of the rot."]
+			description: ["당신은이 차원이 축축하고 촉촉하다고 들었지만 썩을 것으로 기대하지는 않았습니다.당신을 계속 공격하는 성가신 rotlings을 죽이면 그들은 부패의 원인 인 것 같습니다."]
 			id: "2AFB98683E249B7D"
 			rewards: [
 				{
@@ -123,13 +123,13 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"Now that you're geared up, it's time to see what's causing these abnormalities in the ocean. You've noticed some activity in the &eOverworld Ice Mazes&r... It might be worth checking out. You can find these Ice Mazes on the &esurface near Deep Frozen Oceans&r. "
+				"이제 당신이 준비되었으므로 이제 바다에서 이러한 이상을 일으키는 원인을 볼 차례입니다.당신은 overworld Ice Mazes에서 일부 활동을 발견했습니다 ... 체크 아웃 할 가치가 있습니다.이 얼음 미로를 찾을 수 있습니다."
 				""
-				"They say a rare mineral called &eOxygelium&r can be found at the &ebottom of these Ice Mazes&r in the ocean."
+				"그들은 바다 의이 얼음 미로의 bottom에서 oxygelium이라는 희귀 광물을 찾을 수 있다고 말합니다."
 				""
-				"&cMobs from Aquamirae spawn at a minimum of level 35. If you're above level 35 and looking for more of a challenge, consider completing the rest of Act III in the Overworld Mirror dimension!&r"
+				"Aquamirae의 CMOBS는 최소 35 레벨 35에서 생성됩니다. 레벨 35 이상이고 더 많은 도전을 찾고 있다면 Overworld Mirror Dimension에서 나머지 III을 완료하는 것을 고려하십시오!"
 				""
-				"&eRequires 1 dependency to be completed.&r"
+				"REQUIRES 1 의존성 완료."
 			]
 			icon: "minecraft:ice"
 			id: "217637D12CF3011E"
@@ -176,9 +176,9 @@
 		{
 			dependencies: ["5E98541EEB25174A"]
 			description: [
-				"You spoke with a village local who claimed to once live in the Undergarden. According to that local, there were once powerful entities in temples throughout the land that protected civilization from creeping Rot. You'll need to find an Undergarden &eCatacombs&r to complete this quest."
+				"당신은 한 번 언더 가덴에 살고 있다고 주장한 마을 지역과 이야기를 나 spoke습니다.그 지역에 따르면, 한때 토지 전체에 문명이 크리프 썩음으로부터 보호되는 성전에 강력한 실체가있었습니다.이 퀘스트를 완료하려면 Undergarden catacombs을 찾아야합니다."
 				""
-				"However, it seems that was all in the past. New investigations hint at some new creatures haunting the Overworld depths. Perhaps now is a good time to check out the &eOverworld Mirror&r."
+				"그러나 그것은 과거에 모두 인 것 같습니다.새로운 조사는 오버 월드 깊이를 잊어 버린 일부 새로운 생물을 암시합니다.아마도 지금은 overworld 거울을 확인하기에 좋은시기 일 것입니다."
 			]
 			id: "775A13E1924D6C9A"
 			rewards: [
@@ -245,7 +245,7 @@
 		}
 		{
 			dependencies: ["2AFB98683E249B7D"]
-			description: ["You've heard from an elderly local from the village that they were originally from the Undergarden! According to the local, there are no longer any villages in the Undergarden due to the creeping Rot. However, there may still be resident &eStoneborn&r creatures willing to do trade."]
+			description: ["당신은 마을에서 노인들로부터 원래 언더 가덴 출신이라고 들었습니다!현지인에 따르면, 오프 썩은 썩음으로 인해 언더 가덴에는 더 이상 마을이 없습니다.그러나 여전히 상주 및 Estoneborn 생물이 거래를하고자하는 생물이있을 수 있습니다."]
 			id: "34AE4F64C6DCC76B"
 			rewards: [
 				{
@@ -290,7 +290,7 @@
 		}
 		{
 			dependencies: ["2AFB98683E249B7D"]
-			description: ["Explore the depths of the Undergarden and you'll find some useful resources that can be turned into gear!"]
+			description: ["Undergarden의 깊이를 탐색하면 기어로 바뀔 수있는 유용한 리소스를 찾을 수 있습니다!"]
 			id: "73CB23341BA13CD0"
 			rewards: [
 				{
@@ -324,7 +324,7 @@
 		}
 		{
 			dependencies: ["217637D12CF3011E"]
-			description: ["If you're having trouble finding an &eEnd Portal Frame&r and running out of &eEye of Enders&r, perhaps it's time for you to craft an &eEndolocator&r, which is functionally the same as an Eye of Ender, but has unlimited uses!"]
+			description: ["AN END Portal Frame을 찾고 Enders의 Eye가 부족하는 데 어려움을 겪고 있다면 AN ENDOLOCATOR을 제작해야 할 때가되었을 것입니다."]
 			id: "2E0F302F9BBF7E36"
 			rewards: [
 				{
@@ -364,7 +364,7 @@
 		{
 			can_repeat: true
 			dependencies: ["55F9F418C4CA3B3A"]
-			description: ["This \"quest\" consumes the coin and lets you select a reward from the list."]
+			description: ["이것 \"quest\"동전을 소비하고 목록에서 보상을 선택할 수 있습니다."]
 			hide_dependency_lines: true
 			hide_details_until_startable: true
 			icon: "mmorpg:skill_gems/support/int"
@@ -411,7 +411,7 @@
 				"0998037F5701A2D7"
 				"5C25A5681CC704B8"
 			]
-			description: ["Complete all of the quests in Act III to complete this achievement. Then show it off with your new hat!"]
+			description: ["이 성과를 완료하려면 Act III의 모든 퀘스트를 완료하십시오.그런 다음 새 모자로 보여주세요!"]
 			hide_dependency_lines: true
 			icon: "simplehats:babydolphin"
 			id: "6852C249CA093735"
@@ -442,7 +442,7 @@
 		}
 		{
 			dependencies: ["775A13E1924D6C9A"]
-			description: ["You can craft your own Waystone to teleport to. These will be relatively expensive, but they're definitely worth it!"]
+			description: ["순간 이동하기 위해 자신의 웨이 스톤을 만들 수 있습니다.이것들은 비교적 비싸지 만 확실히 그만한 가치가 있습니다!"]
 			id: "4BA92370D0D0DC32"
 			rewards: [{
 				auto: "enabled"
@@ -465,7 +465,7 @@
 		}
 		{
 			dependencies: ["775A13E1924D6C9A"]
-			description: ["Despite it's expensive ingredients, the &eDisenchanter&r allows you to take all the enchantments off of an item for a &edurability cost&r."]
+			description: ["비싼 성분에도 불구하고 disenchanter을 사용하면 A durability Cost에 대한 항목의 모든 마법을 제거 할 수 있습니다."]
 			id: "5596C3E03B25B9C8"
 			rewards: [
 				{
@@ -496,7 +496,7 @@
 		}
 		{
 			dependencies: ["2E0F302F9BBF7E36"]
-			description: ["The &eStrange Fish Finder&r will locate nearby Devil's Hole chunks which contain &eunique fish and loot&r."]
+			description: ["strange fish finder은 unique fish and loot을 포함하는 인근 악마의 구멍 덩어리를 찾을 것입니다."]
 			id: "58F782F592F2ADEB"
 			rewards: [
 				{
@@ -546,7 +546,7 @@
 		}
 		{
 			dependencies: ["775A13E1924D6C9A"]
-			description: ["This set of &earmor&r allows you to easily &emine and fight&r underwater. You'll need some &eCreate kinetics to repressurize&r the backtank."]
+			description: ["이 armor 세트를 사용하면 쉽게 수중과 싸우고 싸울 수 있습니다.역전을 억압하려면 및 동역학이 필요합니다."]
 			id: "43653B7D5F737BF3"
 			rewards: [{
 				auto: "enabled"
@@ -600,7 +600,7 @@
 		}
 		{
 			dependencies: ["775A13E1924D6C9A"]
-			description: ["This set of &earmor&r allows you to easily &emine and fight&r underwater. You can craft &eOxygen Tanks with Oxygelium&r which can be found underwater."]
+			description: ["이 armor 세트를 사용하면 쉽게 수중과 싸우고 싸울 수 있습니다.수중에 발견 될 수있는 산도 및 R을 사용하여 크래프트 및 eoxygen 탱크를 만들 수 있습니다."]
 			id: "43D444B5C1395F3E"
 			rewards: [{
 				auto: "enabled"
@@ -642,7 +642,7 @@
 		}
 		{
 			dependencies: ["217637D12CF3011E"]
-			description: ["These undead creatures have been spotted roaming the &eIce Mazes on the surface, near the Deep Frozen Ocean&r."]
+			description: ["이 언데드 생물들은 깊은 얼어 붙은 바다 근처에서 표면에있는 ice 미로를 로밍하는 것으로 나타났습니다."]
 			id: "60A18C940B623CDA"
 			rewards: [
 				{
@@ -688,7 +688,7 @@
 		}
 		{
 			dependencies: ["217637D12CF3011E"]
-			description: ["These fish definitely look fishy... and they're on land! These creatures can be found in &eIce Mazes near the Deep Frozen Ocean&r."]
+			description: ["이 물고기는 확실히 비린내처럼 보입니다 ... 그리고 그들은 땅에 있습니다!이 생물들은 깊은 얼어 붙은 바다 근처의 ice 미로에서 찾을 수 있습니다."]
 			id: "3054F5AA249874B1"
 			rewards: [
 				{
@@ -722,7 +722,7 @@
 		}
 		{
 			dependencies: ["217637D12CF3011E"]
-			description: ["The &eAnglers&r in the &eDeep Ocean&r seem normal enough..."]
+			description: ["anglers deep ocean은 충분히 정상적인 것 같습니다 ..."]
 			id: "59A29FC72CB20EB7"
 			rewards: [
 				{
@@ -768,9 +768,9 @@
 		{
 			dependencies: ["59A29FC72CB20EB7"]
 			description: [
-				"This slippery, slithery creature can be found in the &eDeep Ocean&r."
+				"이 미끄러운 슬라이스 생물은 deep ocean에서 찾을 수 있습니다."
 				""
-				"&cThe Eel spawns at a minimum level of 35.&r"
+				"는 최소 35의 최소 수준에서 스폰됩니다."
 			]
 			id: "46DB9530C236A4AD"
 			rewards: [
@@ -826,12 +826,12 @@
 		{
 			dependencies: ["59A29FC72CB20EB7"]
 			description: [
-				"Never actually seen by any living being, the myth of the &eMother of the Ice Maze&r is that it's a powerful creature that roams the seas, attacking sailors and pirates alike. If you want to find it, it's said that it has a chance of &espawning with Anglers&r (&70.5% chance to spawn with an Angler&r). It's also rumored that inside the gut of the creature, you'll find rare ancient pirate treasure..."
+				"실제로 살아있는 존재, 아이스 미로의 신화는 결코 보지 못했습니다.당신이 그것을 찾고 싶다면, 그것은 낚시꾼들과 함께 그리고 낚시꾼들과 함께 스폰 될 가능성이 있다고한다.또한 생물의 내장 안에서 희귀 한 고대 해적 보물을 찾을 수 있다는 소문이 있습니다 ..."
 				""
-				"&cThe Mother of the Ice Maze spawns at a minimum level of 35.&r"
+				"아이스 미로의 어머니는 최소 35의 수준에서 생성됩니다."
 				""
-				"The Mother of the Ice Maze Has:"
-				"&b+50% Physical Damage converted to Frost Damage&r"
+				"얼음 미로의 어머니는 다음과 같습니다."
+				"+50% 신체적 손상이 서리 손상으로 전환되었습니다"
 			]
 			id: "18B4B295493669DD"
 			rewards: [
@@ -920,16 +920,16 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"The &eGhost of Captain Cornelia&r appears when a certain sound is played from a &ehorn&r..."
+				"Cornelia와 R의 ghost는 A horn에서 특정 소리가 재생되면 나타납니다."
 				""
-				"Some say the &ehorn&r can be found in a &elarge mother-like creature&r that lurks in the &eDeep Frozen Ocean&r, or can be earned through the completion of a &eGateway of the Ice Maze&r."
+				"어떤 사람들은 horn은 a large 어머니와 같은 생물과 edeep 얼어 붙은 바다에 숨어 있거나 아이스 미로의 a gateway를 완성하여 얻을 수 있다고 말할 수 있다고 말합니다."
 				""
-				"The Ghost of Captain Cornelia Has:"
-				"&b+25% Critical Hit (Flat)&r"
+				"Cornelia 대위의 유령은 다음과 같습니다."
+				"+25% Critical Hit (Flat)"
 				""
-				"&cThe Ghost of Captain Cornelia spawns at level of 40.&r"
+				" Cornelia 선장의 유령은 40의 레벨에서 생성됩니다."
 				""
-				"&eRequires 1 dependency to be completed.&r"
+				"REQUIRES 1 의존성 완료."
 			]
 			id: "55F9F418C4CA3B3A"
 			rewards: [
@@ -973,7 +973,7 @@
 		}
 		{
 			dependencies: ["73CB23341BA13CD0"]
-			description: ["These &ecold ingots&r can be used to craft some powerful &eFroststeel&r gear."]
+			description: ["이 cold ingots은 강력한 froststeel 장비를 만드는 데 사용될 수 있습니다."]
 			id: "0AFF7911E9C10C1B"
 			rewards: [
 				{
@@ -1026,11 +1026,11 @@
 		{
 			dependencies: ["55F9F418C4CA3B3A"]
 			description: [
-				"It's time for you to visit the Villager scholar. They might know something about alternate dimensions containing powerful creatures."
+				"당신이 마을 사람 학자를 방문 할 때입니다.그들은 강력한 생물을 포함하는 대체 차원에 대해 알고있을 것입니다."
 				""
-				"You can find the &eGatekeeper&r in &eGatekeeper Houses&r which can spawn in the &emountains, and plains or snowy villages&r."
+				"gatekeeper에서 gatekeeper 주부을 찾을 수있는 mountains, 평원 또는 눈 덮인 마을."
 				""
-				"You might need some way to coerce them to giving the information however... Perhaps some &aEmeralds&r?"
+				"그러나 정보를 제공하기 위해 그들을 강요하는 방법이 필요할 수도 있습니다 ... 아마도 일부 emeralds?"
 			]
 			id: "0998037F5701A2D7"
 			rewards: [{
@@ -1059,9 +1059,9 @@
 		{
 			dependencies: ["775A13E1924D6C9A"]
 			description: [
-				"Deep in the &eLabyrinths&r, you can sometimes find deactivated guardians. They say these guardians once protected the people from Rot creatures, but have long since lost their magic. Of course, that's just what they say..."
+				"labyrinths의 깊은 곳에서 때때로 비활성화 된 수호자를 찾을 수 있습니다.그들은이 수호자들이 한 번 썩은 생물로부터 사람들을 보호했지만 오랫동안 마법을 잃어 버렸다고 말합니다.물론, 그것은 그들이 말하는 것입니다 ..."
 				""
-				"If you cannot find these guardians, you may have better luck forcing a portal to the past with an &eEndless Gateway of the Labyrinth&r."
+				"이 수호자를 찾을 수 없다면 Labyrinth의 al endless 게이트웨이로 포털을 과거로 강제하는 것이 더 좋은 행운이있을 수 있습니다."
 			]
 			id: "5C25A5681CC704B8"
 			rewards: [

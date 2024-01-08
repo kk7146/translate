@@ -10,9 +10,9 @@
 	quests: [
 		{
 			description: [
-				"&eSniffers&r spawn by hatching from &esniffer eggs&r found in &esuspicious sand &rfrom &ewarm ocean ruins&r. Breeding sniffers with &etorchflower seeds&r would also result in a sniffer egg being laid as an item. It &esniffs out and digs out seeds&r for various unique decorative plants out of dirt, grass, and moss blocks. They will dig through &edirt and grass&r like blocks. "
+				"sniffers Spawn sniffer Eggs의 부화 suspicious sandff warm ocean ruins.torchflower seeds로 스니퍼를 번식 시키면 스니퍼 알이 아이템으로 놓여 질 것입니다.그것은 흙, 잔디 및 이끼 블록에서 다양한 독특한 장식 식물을 위해 씨앗을 파고 들었습니다.그들은 dirt와 잔디와 같은 블록을 파헤칠 것입니다."
 				""
-				"The sniffer &estores the last 20 locations&r it has dug up so it can't dig there anymore. After sniffing out seeds, an &eeight minute cooldown&r is activated before it can dig in again."
+				"Sniffer stores는 마지막 20 개 위치를 파고 들었습니다.씨앗을 스니핑 한 후, eight minute cooboldown이 다시 발굴되기 전에 활성화됩니다."
 			]
 			id: "1D611B5828213E51"
 			rewards: [{
@@ -38,9 +38,9 @@
 		{
 			dependencies: ["1D611B5828213E51"]
 			description: [
-				"&eTorchflower seeds&r can be placed on farmland, where they grow through three stages. Breaking the torchflower crop before it matures drops the seed, while breaking the final stage produces one torchflower and does not yield the seed. Torchflowers don't do anything special except &elook cool&r."
+				"torchflower Seeds은 농지에 배치하여 3 단계를 통해 자랍니다.성숙하기 전에 토치 플라워 작물을 부러 뜨리면 씨앗이 떨어지고, 마지막 단계를 끊으면 하나의 토치 플라워가 생성되며 씨앗을 생성하지 않습니다.Torchflowers는 look Cool을 제외하고 특별한 일을하지 않습니다."
 				""
-				"&ePitcher Pods&r grow through three stages as a pitcher crop. It also does nothing except look cool."
+				"pitcher Pods은 투수 작물로 3 단계를 통해 성장합니다.또한 멋지게 보이는 것 외에는 아무것도하지 않습니다."
 			]
 			id: "141FAE11D6180780"
 			rewards: [{
@@ -72,13 +72,13 @@
 		{
 			dependencies: ["141FAE11D6180780"]
 			description: [
-				"&eMore Sniffer Flowers&r adds more seeds and plants the Sniffer can dig up that actually do something."
+				"more Sniffer Flowers은 더 많은 씨앗과 식물을 추가합니다."
 				""
-				"&eDawnberries&r drop edible berries when picked."
+				"dawnberries 뽑을 때 식용 딸기를 떨어 뜨립니다."
 				""
-				"&eAmbushes&r produce &eAmber&r which drops a new armor trim, banner pattern, and more. "
+				"ambushes fromation amber은 새로운 갑옷 트림, 배너 패턴 등을 떨어 뜨립니다."
 				""
-				"&eCaulorflowers&r are decorational plants that are animated."
+				"caulorflowers은 애니메이션이있는 장식용 식물입니다."
 			]
 			id: "0D8B0AB8564ABCB9"
 			rewards: [{
@@ -116,15 +116,15 @@
 		{
 			dependencies: ["3DB047DAC7A392C3"]
 			description: [
-				"The &esheep fossil&r can be found at some small stony peaks. It can be tuned and activated like a Noteblock to play some Goat Horn sounds!"
+				"sheep 화석은 작은 돌이 봉우리에서 찾을 수 있습니다.염소 경적 소리를 연주하기 위해 노트 블록처럼 조정되고 활성화 될 수 있습니다!"
 				""
-				"The &eocelot fossil&r can be found hidden away in its (maybe collapsed) cave inside the jungle. It scares creepers away for double the distance cats do (without making annoying sounds)."
+				"ocelot 화석은 정글 내부의 (아마도 무너진) 동굴에 숨겨져 있습니다.고양이가하는 거리의 두 배로 겁내는 소리는 (성가신 사운드를 만들지 않고) 겁을 먹습니다."
 				""
-				"The &ecreeper fossil &rcan be found at an old exploded dirt-hut. It emits fire and smoke particles when placed."
+				"creeper 화석can은 오래된 폭발 된 흙 덩어리에서 발견됩니다.배치하면 화재와 연기 입자를 방출합니다."
 				""
-				"The &evillager fossil&r can be found at a grave of a rotten outcast-house. It can hold items like a display and will emit the light of the item it is holding."
+				"villager 화석은 썩은 추방자의 무덤에서 찾을 수 있습니다.디스플레이와 같은 항목을 보유 할 수 있으며 보유하고있는 항목의 빛을 방출합니다."
 				""
-				"The &echicken fossil&r can be found below trees surrounded by small rocks. It gives players in a 10 Block radius the slow-falling effect."
+				"chicken 화석은 작은 바위로 둘러싸인 나무 아래에서 찾을 수 있습니다.10 블록 반경의 플레이어에게 느리게 진행되는 효과를 제공합니다."
 			]
 			id: "4687F41A2DC1F1F6"
 			rewards: [{
@@ -171,7 +171,7 @@
 		}
 		{
 			dependencies: ["4687F41A2DC1F1F6"]
-			description: ["&eTotems&r can be found by identifying artifacts."]
+			description: ["totems은 아티팩트를 식별하여 찾을 수 있습니다."]
 			id: "6D81B1B54FCBAFA0"
 			rewards: [{
 				auto: "enabled"
@@ -214,13 +214,13 @@
 		}
 		{
 			description: [
-				"&eBetter Archeology &rintroduces content to archeology. &eFossils&r of various mobs can be found by &ebrushing Fossiliferous Dirt&r which generates at specific areas. Each area contains a &especific type of fossil&r, such as stone pillars' nearby Fossiliferous Dirt containing sheep fossils. "
+				"better 고고학 및 소문 소득 고고학에 대한 콘텐츠.다양한 폭도들의 fossils은 특정 영역에서 생성되는 화석 흙에 의해 찾을 수 있습니다.각 영역에는 양의 화석을 함유 한 돌 기둥의 근처의 화석 흙과 같은 특이한 유형의 화석이 포함되어 있습니다."
 				""
-				"The &eArcheology Table&r is used to &eanalyse Unidentified Artifacts&r using any type of brush. &eIdentified Artifacts&r act as a catalyst for &eancient Enchantments like Enchanted Books&r do. Apply them to your Equipment using an Anvil."
+				"archeology table은 모든 유형의 브러시를 사용하여 analyse 미확인 아티팩트 및 r에 사용됩니다.identified artifacts은 Enchanted Books과 같은 ancient enchantments의 촉매제 역할을합니다.모루를 사용하여 장비에 적용하십시오."
 				""
-				"&eArtifact Shards&r can be found by &ebreaking pots or brushing suspicious sand&r. They are Fragments of knowledge that can be put together to craft Unidentified Artifacts. "
+				"artifact shards은 breaking pots 또는 songicious sand에서 찾을 수 있습니다.그것들은 미확인 유물을 만들 수있는 지식의 조각입니다."
 				""
-				"&eIdentify&r the Unidentified Artifacts with the &eArcheology Table&r."
+				"identify archeology table을 사용한 미확인 유물."
 			]
 			id: "3DB047DAC7A392C3"
 			rewards: [{
@@ -412,7 +412,7 @@
 			y: -2.0d
 		}
 		{
-			description: ["&eGateways&r allow you to spawn in waves of a certain type of mob to fight. Each wave must be eliminated within a &etime limit&r, or else the gateway disappears. If you finish all waves, a &ebunch of mob drops&r will spawn at the base of the gateway."]
+			description: ["gateways은 당신이 싸우기 위해 특정 유형의 폭도들의 파도를 낳을 수 있습니다.각 파도는 A time 한계 내에서 제거되어야합니다. 그렇지 않으면 게이트웨이가 사라집니다.모든 파도를 마치면 많은 Mob Drops이 게이트웨이 바닥에서 생성됩니다."]
 			id: "3E5A643A19ECF957"
 			rewards: [{
 				auto: "enabled"
@@ -521,7 +521,7 @@
 		}
 		{
 			dependencies: ["3E5A643A19ECF957"]
-			description: ["&eBigger gateways&r increase the amount of mobs per wave, but also the amount of drops."]
+			description: ["bigger Gateways은 파자 당 몹의 양뿐만 아니라 방울의 양을 증가시킵니다."]
 			icon: {
 				Count: 1b
 				id: "minecraft:tipped_arrow"
@@ -553,7 +553,7 @@
 		}
 		{
 			dependencies: ["5C89FB95B4B3B3C4"]
-			description: ["&eLarge gateways&r are the ultimate challenge and have stringent time limits."]
+			description: ["large Gateways은 궁극적 인 도전이며 엄격한 시간 제한을 가지고 있습니다."]
 			icon: {
 				Count: 1b
 				id: "minecraft:tipped_arrow"
@@ -987,20 +987,20 @@
 		}
 		{
 			description: [
-				"To &efind &rmonsters for quest completions or mob farming, push Y to open the &eminimap settings&r. &eClick entity radar&r, then click &eentity category&r. Click &eLiving,&r then &e\"Add Subcategory\"&r and name it whatever. Click on this &enew subcategory&r, click &esettings,&r then do the following: "
+				"퀘스트 완료 또는 폭도 농업을 위해 findmonsters를 위해 minimap 설정을 열도록 y.click Entity Radar, 그런 다음 entity category을 클릭하십시오.클릭 및 ELIVING, 그런 다음  \"Add Subcategory\과 이름을 지정하십시오.이 서브 카테고리, 클릭 및 esettings를 클릭 한 다음 다음을 수행하십시오."
 				""
-				"&eDisplay: &rON"
-				"&eIcons:&r ALWAYS"
-				"&eNames: &rALWAYS"
-				"&eEntity Dot Size: &r3"
-				"&eEntity Icon Scale:&r 2.00"
-				"&eRender Over Minimap Frame:&r Always"
+				"display :on"
+				"icons : 항상"
+				"names :always"
+				"entity dot 크기 :3"
+				"entity 아이콘 스케일 : 2.00"
+				"미니 맵 프레임 위의 렌더 : 항상"
 				""
-				"Then, go to &eInclude List&r. In the &e\"Add to List\"&r box, type the &ename of the mob&r you want and click the correct one such as typing \"spider\" then clicking &e\"minecraft:cave_spider\"&r. Now, all of the mob that you've selected will appear as a &ebig icon on your minimap and map&r."
+				"그런 다음 include list로 이동하십시오. \에서"Add to List\ 상자, 원하는 mob의 name을 입력하고 타이핑과 같은 올바른 것을 클릭하십시오."spider\"그런 다음 클릭  \"minecraft:cave_spider\"아르 자형.이제 선택한 모든 폭도는 Minimap 및 Map에서 A big 아이콘으로 나타납니다."
 				""
-				"Also in Entity Radar, go to the 2nd page (hit next page) and change &eEntity Height Limit to 2050&r which will allow the minimap to display mobs on &eall Y levels&r. "
+				"또한 엔티티 레이더에서는 두 번째 페이지 (다음 페이지에 맞음)로 이동하여 2050로 변경 및 eentity 높이 제한을 통해 최소값이 몹을 표시 할 수 있습니다."
 				""
-				"Remember to remove the mob from the radar when you're done."
+				"완료되면 레이더에서 폭도를 제거해야합니다."
 			]
 			id: "24A1F71924383794"
 			rewards: [{
@@ -1026,7 +1026,7 @@
 		}
 		{
 			dependencies: ["24A1F71924383794"]
-			description: ["&eAlex's Mobs &radds in numerous mobs to be &etamed and hunted&r."]
+			description: ["alex의 폭도들과 수많은 폭도들에 대한adds tamed and Hunted."]
 			id: "3C8E45CB8CEA634D"
 			rewards: [{
 				auto: "enabled"
@@ -1050,7 +1050,7 @@
 		}
 		{
 			dependencies: ["3C8E45CB8CEA634D"]
-			description: ["Time to see what you've &elearned.&r "]
+			description: ["당신이 무엇을 윤리적으로 볼 시간입니다."]
 			icon: "kobolds:kobold_skull"
 			id: "0C91F7CC3D7675AF"
 			subtitle: "Kill 16 of each mob"
@@ -1098,27 +1098,27 @@
 		}
 		{
 			description: [
-				"&eDoggy Talents Next&r allows you to interact with, level up, and care for your dogs. You can &eplay tag, fetch, locate your dog, revive them, and teach them useful talents&r."
+				"doggy ratents next을 사용하면 개와 상호 작용하고 레벨을 올리며 돌볼 수 있습니다.당신은 태그, 가져 오기, 개를 찾아서, 그들을 부활시키고, 그들에게 유용한 재능을 가르 칠 수 있습니다."
 				""
-				"&eTame a wolf&r and then use a Training Treat on them. Right click the dog with a stick to open it's menu. &eMore options&r can be found at the &ebottom of your screen in the GUI&r. "
+				"tame a wolf 다음에 훈련 치료를 사용하십시오.스틱으로 개를 마우스 오른쪽 버튼으로 클릭하여 메뉴를 열십시오.more 옵션은 GUI의 화면의 bottom에서 찾을 수 있습니다."
 				""
-				"Attach a &eRadio Collar&r to your dog and craft a &eCanine Locator&r so you'll never lose them. A &eBone&r can also be used to place your dog on your head."
+				"A radio Collar을 개에 부착하고 A canine Locator을 공예하여 절대 잃지 않을 것입니다.A bone은 개를 머리에 놓는 데 사용될 수 있습니다."
 				""
-				"&eBehavior Modes:&r"
+				"행동 모델 :"
 				""
-				"&eDocile:&r Dog will follow but not attack"
+				"Docile : 개는 따라야하지만 공격하지 않습니다."
 				""
-				"&eWandering:&r Dog will stay near its food bowl"
+				"방황 : 개는 음식 그릇 근처에 머물 것입니다."
 				""
-				"&eAggressive:&r Dog will attack any mobs that attack you or you attack"
+				"ggreast : 개는 당신을 공격하거나 공격하는 폭도들을 공격합니다."
 				""
-				"&eBerserker:&r Dog will attack any nearby mobs. Minor version won't attack Piglins or Endermen"
+				"berserker : 개는 근처의 폭도를 공격합니다.마이너 버전은 Piglin 또는 Endermen을 공격하지 않습니다"
 				""
-				"&ePatrol:&r Dog will patrol area for mobs"
+				"patrol : 개는 폭도들을 위해 지역 순찰 지역"
 				""
-				"&eGuard:&r Dog will follow closely and attack mobs that draw near. Flat version won't attack Piglins or Endermen. Minor version won't attack but instead growl to warn"
+				"guard : 개는 밀접하게 따라 가고 가까이에있는 폭도를 공격 할 것입니다.플랫 버전은 돼지 또는 인류 맨을 공격하지 않습니다.마이너 버전은 공격하지 않고 대신 경고하기 위해 으르렁 거립니다"
 				""
-				"&eTactical:&r Dog won't attack unless you use Tactical whistle on a mob"
+				"Tactical : 개는 폭도에 전술 휘파람을 사용하지 않으면 공격하지 않습니다."
 			]
 			id: "77DED163AD398568"
 			rewards: [{
@@ -1161,29 +1161,29 @@
 		{
 			dependencies: ["77DED163AD398568"]
 			description: [
-				"You'll need a &eDog Bed, Dog Bath, and Food Bowl&r to take care of your dog. &eLink the Dog Bed&r to your dog by &eright clicking&r the bed and then your dog and the &eFood Bowl&r by &ebringing the dog within 1 block&r of it. The dog will eat out of the food bowl when &ehungry&r if you put food inside."
+				"개를 돌보려면 A dog 침대, 개 목욕 및 Food Bowl이 필요합니다. 개 침대에은 침대를 클릭하고 침대를 클릭 한 다음 개와 efood bowl은 개를 1 블록 내에ing으로 묶습니다.개는 음식을 먹으면 음식을 먹을 때 음식 그릇에서 외식 할 것입니다."
 				""
-				"The &eWhistle&r is your main method of commanding your dog. &eRight click&r it to use the currently selected command and &eshift right click&r to select the command. "
+				"whistle은 당신의 개를 명령하는 주요 방법입니다.right 클릭 현재 선택한 명령을 사용하고 Shift 오른쪽 클릭을 클릭하여 명령을 선택하십시오."
 				""
-				"Your dog has &ehunger&r (the middle number above it's head) which drains from &ehealing and talents&r. Once it reaches &e0&r, the dog will start to &edie.&r"
+				"당신의 개는 hunger (머리 위의 중간 숫자)을 가지고 있습니다.0에 도달하면 개는 die로 시작합니다."
 				""
-				"&eWhistle Commands&r"
+				"whistle 명령"
 				""
-				"&eStand/Ok?:&r Dogs stand/teleport to you"
+				"stand/Ok? : 개가 당신에게 스탠드/텔레포트"
 				""
-				"&eHeel: &rAll standing dogs come to you"
+				"heel :all standing dogs가 당신에게 온다"
 				""
-				"&eStay: &rAll standing dogs sit"
+				"stay : 랠리 서있는 개"
 				""
-				"&eTo Bed:&r All dogs return to their bed if they have one"
+				"to bed : 모든 개가 하나가 있으면 침대로 돌아갑니다."
 				""
-				"&eGo Behind:&r All standing dogs teleport behind you"
+				"자아 뒤에서 : 모든 서있는 개들은 당신 뒤에 순간 이동합니다."
 				""
-				"&eTactical:&r Command all dogs in Tactical Mode to attack the target you aim at with the whistle"
+				"Tactical : 전술 모드의 모든 개를 명령하여 휘슬과 함께 목표를 공격합니다."
 				""
-				"&eHowl:&r Aim at a dog and use to make them howl"
+				"howl : 개를 목표로하고 울부 짖는 데 사용"
 				""
-				"&eRide With Me:&r Aim at a vehicle, such as a boat, and the dog will get in"
+				"나와 함께 : 보트와 같은 차량을 목표로하고 개가 들어갈 것입니다."
 			]
 			id: "1BAD2923BF4081F3"
 			rewards: [{
@@ -1235,17 +1235,17 @@
 		{
 			dependencies: ["1BAD2923BF4081F3"]
 			description: [
-				"When in &eIncapacitated mode&r, your dog will need to be &etransported to it's bed&r and given some &eBand-Aids&r to speed up the healing process. Their hunger will be set to 0, and will gradually &eregenerate to 64&r. When it hits 64, the dog is &erevived.&r Use a &eBone&r on the dog to pick them up."
+				"incapacitated Mode에있을 때, 당신의 개는 침대와 r에 삽입되어야하며, 치유 과정의 속도를 높이기 위해 일부 band-ads을 주어야합니다.그들의 굶주림은 0으로 설정 될 것이며 점차적으로 64까지 퇴학 할 것입니다.그것이 64에 부딪히면 개는 reaved입니다. 개에게 A bone을 사용하여 그들을 데리러 올리십시오."
 				""
-				"Any dogs that &ehaven’t been linked&r to the bed can still be revived on an unclaimed bed by using a &eTotem of Undying&r/"
+				"undying/의 a totem을 사용하여 침대에 연결되어 있지 않은 개는 여전히 침대에 부활 할 수 있습니다."
 				""
-				"If enough &eBand-Aids&r are applied, the dog can begin to &ewalk.&r Note that any &edamage&r the dog takes will still cause the hunger to reset and remove the &eBand-Aids&r. Dogs &ecannot teleport when incapacitated&r. &eTotems of Undying&r will instantly revive all nearby dogs."
+				"충분한 band-aids이 적용되면 개는 walk를 시작할 수 있습니다. 개가 가져가는 모든 damage 굶주림이 여전히 재설정되어 band-ads을 제거하게됩니다.Dogs cAnnot 텔레포트 무능력시. undying의 etotems는 근처의 모든 개를 즉시 부활시킬 것입니다."
 				""
-				"Your dog will &eplay tag&r if you throw a &eSnowball&r at them. Use a &eThrowing Stick or Throwing Bone&r to play fetch."
+				"당신의 개는 snowball을 던지면 TAG을 EPLAY합니다.A throwing Stick 또는 Throwing Bone을 사용하여 Fetch를 재생하십시오."
 				""
-				"The &eEnergizer Bone&r gives your dog some minor &ebuffs,&r such as &espeed,&r which is great when using them as a &emount.&r The &eBreeding Bone&r can breed two dogs of opposite gender."
+				"energizer bone은 당신의 개에게 작은 buffs를 제공합니다. speed,과 같은은 그것들을 A mount로 사용할 때 좋습니다."
 				""
-				"The &eMagnifying Bone&r will &eincrease&r your dogs size while the &eShrinking Mallet&r will &eshrink&r your dog until they're a &epuppy.&r"
+				"Shrinking mallet will Shrink 개가 a puppy."
 			]
 			id: "2DED343BD83179E3"
 			rewards: [{
@@ -1320,9 +1320,9 @@
 		{
 			dependencies: ["2DED343BD83179E3"]
 			description: [
-				"Your dog will require &ehigher tiered treats&r to &elevel up&r. Their max level is &e60.&r This is &4NOT&r Mine and Slash leveling up. "
+				"당신의 개는 higher tiered 간식을 필요로합니다.그들의 최대 수준은 60입니다. 이것은 노트 광산과 슬래시 레벨 업입니다."
 				""
-				"Your dog can be &ecustomized&r with &ecostumes, dyable capes, collars, etc&r. Some will allow the dog to drop &especial music discs&r if they kill a mob while wearing it."
+				"당신의 개는 costumes, dyable capes, collars 등과 함께 에콰 화 될 수 있습니다.일부는 개가 몹을 착용하는 동안 폭도를 죽이면 개가 드롭 및 특별한 음악 디스크를 떨어 뜨릴 수있게 해줍니다."
 			]
 			id: "46CE10AA0F5E648A"
 			rewards: [

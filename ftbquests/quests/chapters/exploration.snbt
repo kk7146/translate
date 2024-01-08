@@ -851,7 +851,7 @@
 				"489A9BF6204A632F"
 				"65C10787769C4233"
 			]
-			description: ["You must discover &e35 out of 40&r structures here to unlock this. You must then discover the &ePuzzle Dungeon&r."]
+			description: ["이를 잠금 해제하려면 40 및 R 구조 중 35를 발견해야합니다.그런 다음 puzle Dungeon을 발견해야합니다."]
 			id: "50228379A7F98359"
 			min_required_dependencies: 35
 			rewards: [
